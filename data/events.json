@@ -1,0 +1,6190 @@
+[
+  {
+    "created_at": "2022-01-02 22:22:17",
+    "type": "membership.started",
+    "start_date": "2022-01-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-VNHX0Eak6f9c",
+    "patient": "pat-VkD5SOu9c7zO"
+  },
+  {
+    "created_at": "2022-01-03 13:44:55",
+    "type": "membership.price_changed",
+    "from_price": 0,
+    "to_price": 1100,
+    "membership": "mem-319xnT5unzvB"
+  },
+  {
+    "created_at": "2022-01-03 13:48:09",
+    "type": "membership.ended",
+    "end_date": "2022-01-03",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-1SxTDFTF4BS5",
+    "patient": "pat-cuDLQJK0t9y1"
+  },
+  {
+    "created_at": "2022-01-03 14:02:06",
+    "type": "membership.ended",
+    "end_date": "2022-01-03",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-zHkcmHivF6nP",
+    "patient": "pat-jMoOjm3j6k3z"
+  },
+  {
+    "created_at": "2022-01-03 14:02:06",
+    "type": "membership.ended",
+    "end_date": "2022-01-03",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 6000,
+    "membership": "mem-zHkcmHivF6nP",
+    "patient": "pat-FWYtnNYcDBSe"
+  },
+  {
+    "created_at": "2022-01-03 14:02:06",
+    "type": "membership.ended",
+    "end_date": "2022-01-03",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-zHkcmHivF6nP",
+    "patient": "pat-UQ5wfB54k1aG"
+  },
+  {
+    "created_at": "2022-01-03 14:26:11",
+    "type": "membership.started",
+    "start_date": "2022-01-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-1Fp24WmIzCi8",
+    "patient": "pat-9kW5Qbb2gIP7"
+  },
+  {
+    "created_at": "2022-01-03 14:39:29",
+    "type": "membership.started",
+    "start_date": "2022-01-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-VS5we5cm6V4K",
+    "patient": "pat-uHCJCwhtYnN0"
+  },
+  {
+    "created_at": "2022-01-03 19:18:40",
+    "type": "membership.started",
+    "start_date": "2022-01-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-QKRZdZehBfmo",
+    "patient": "pat-PgowNusKtlV3"
+  },
+  {
+    "created_at": "2022-01-03 23:45:53",
+    "type": "membership.started",
+    "start_date": "2022-01-03",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-cxojWpnUjydJ",
+    "patient": "pat-qcdhJWcMCBqF"
+  },
+  {
+    "created_at": "2022-01-04 14:41:10",
+    "type": "membership.ended",
+    "end_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-IY3x6Oag17xr",
+    "patient": "pat-IF7QERRaXxPi"
+  },
+  {
+    "created_at": "2022-01-04 16:18:13",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-8ncQsPIPCOck",
+    "patient": "pat-eJWhGJPoLZ1c"
+  },
+  {
+    "created_at": "2022-01-04 16:18:13",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-8ncQsPIPCOck",
+    "patient": "pat-bwJx6dlQf1yL"
+  },
+  {
+    "created_at": "2022-01-04 16:50:43",
+    "type": "membership.ended",
+    "end_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-5ucb45mQr6PF",
+    "patient": "pat-oXQR6LfgEPlB"
+  },
+  {
+    "created_at": "2022-01-04 17:19:50",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-kC5fFxI8xUMn",
+    "patient": "pat-olI4LuQ3OO15"
+  },
+  {
+    "created_at": "2022-01-04 18:37:38",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AoYtrWemCfoy",
+    "patient": "pat-2oEIflP4bkVi"
+  },
+  {
+    "created_at": "2022-01-04 18:56:20",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-EzRATjw3781q",
+    "patient": "pat-kx9BKQaKR2p3"
+  },
+  {
+    "created_at": "2022-01-04 19:54:33",
+    "type": "membership.ended",
+    "end_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-j4v3c7kHoifI",
+    "patient": "pat-kOPbvfzetWdr"
+  },
+  {
+    "created_at": "2022-01-04 20:59:12",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UyxEBbV5u7rt",
+    "patient": "pat-oqgQSjHdJgQk"
+  },
+  {
+    "created_at": "2022-01-04 22:21:28",
+    "type": "membership.started",
+    "start_date": "2022-01-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-RVIf5Jojde8X",
+    "patient": "pat-o3ZuUnUGYeVB"
+  },
+  {
+    "created_at": "2022-01-07 00:17:44",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-Ic9dKOsEDvri",
+    "patient": "pat-amvdZ8zbVf3z"
+  },
+  {
+    "created_at": "2022-01-07 00:40:50",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-6Sg0S1HdXbxf",
+    "patient": "pat-jhV0LS9aLndP"
+  },
+  {
+    "created_at": "2022-01-07 01:22:26",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-aHGjKrgG79Lj",
+    "patient": "pat-cdHh7z5XoDXh"
+  },
+  {
+    "created_at": "2022-01-07 01:30:30",
+    "type": "membership.price_changed",
+    "from_price": 9900,
+    "to_price": 0,
+    "membership": "mem-kRsl3UzFG6GL"
+  },
+  {
+    "created_at": "2022-01-07 01:31:02",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ePAIVMR2I65z",
+    "patient": "pat-UvKCyEQDYnpU"
+  },
+  {
+    "created_at": "2022-01-07 01:32:45",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-GFdS2C8EO0IA",
+    "patient": "pat-E3RYK3U8Xktq"
+  },
+  {
+    "created_at": "2022-01-07 01:33:16",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-k8fmdUwSbMzQ",
+    "patient": "pat-h7Hm9r5DDd3b"
+  },
+  {
+    "created_at": "2022-01-07 01:34:59",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-RKsEzg2alkAb",
+    "patient": "pat-uYi2Xn34ynvq"
+  },
+  {
+    "created_at": "2022-01-07 01:35:45",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-DNqbER77fjCl",
+    "patient": "pat-8O6apeCZIpXw"
+  },
+  {
+    "created_at": "2022-01-07 01:35:46",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-7uqD018WwdKW",
+    "patient": "pat-p59TGL1s3Yad"
+  },
+  {
+    "created_at": "2022-01-07 01:35:55",
+    "type": "membership.started",
+    "start_date": "2022-01-01",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-2lhHhXf8MBMZ",
+    "patient": "pat-DnkyibDqOIro"
+  },
+  {
+    "created_at": "2022-01-07 01:36:58",
+    "type": "membership.started",
+    "start_date": "2022-01-01",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-AW6VkPrECsgH",
+    "patient": "pat-bWUjC5Hspw9q"
+  },
+  {
+    "created_at": "2022-01-07 01:36:59",
+    "type": "membership.started",
+    "start_date": "2022-01-01",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-mr9UL42vPtfd",
+    "patient": "pat-gI92EbyI5w7G"
+  },
+  {
+    "created_at": "2022-01-07 01:44:08",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-JLhDkQkTgKef",
+    "patient": "pat-3BekYlHUgrIg"
+  },
+  {
+    "created_at": "2022-01-07 01:44:08",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-JLhDkQkTgKef",
+    "patient": "pat-aDgTZU04jmHS"
+  },
+  {
+    "created_at": "2022-01-07 01:44:10",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-LAGMVFvRVcNh",
+    "patient": "pat-vPNMCTRaSFCe"
+  },
+  {
+    "created_at": "2022-01-07 01:56:13",
+    "type": "membership.started",
+    "start_date": "2022-01-05",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-YfTwgyNIWFJi",
+    "patient": "pat-wgYDf59Ns9Po"
+  },
+  {
+    "created_at": "2022-01-07 02:12:04",
+    "type": "membership.price_changed",
+    "from_price": 10000,
+    "to_price": 9900,
+    "membership": "mem-Ic9dKOsEDvri"
+  },
+  {
+    "created_at": "2022-01-07 02:12:45",
+    "type": "membership.started",
+    "start_date": "2022-01-06",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-kv8hj1MofMQM",
+    "patient": "pat-f3ChOPPLmPBT"
+  },
+  {
+    "created_at": "2022-01-07 14:19:27",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-62wg26j56nd7",
+    "patient": "pat-r7oYVFuedFyn"
+  },
+  {
+    "created_at": "2022-01-07 14:19:30",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-jKosfKMgkUIp",
+    "patient": "pat-qwE7cFUOW9Hx"
+  },
+  {
+    "created_at": "2022-01-07 14:24:40",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-YDC7QoTrul2P",
+    "patient": "pat-tLd0Lk8Wa9BQ"
+  },
+  {
+    "created_at": "2022-01-07 15:24:49",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-gDK2OvKn2sqB",
+    "patient": "pat-U4fUTzzyi4B0"
+  },
+  {
+    "created_at": "2022-01-07 16:37:29",
+    "type": "membership.started",
+    "start_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-1Ul9VFHIDfSE",
+    "patient": "pat-zhulJ5NA6Y1F"
+  },
+  {
+    "created_at": "2022-01-07 16:51:59",
+    "type": "membership.ended",
+    "end_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UWWrCqMimHyp",
+    "patient": "pat-AdeOhfc3jVpp"
+  },
+  {
+    "created_at": "2022-01-07 18:47:43",
+    "type": "membership.started",
+    "start_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-bwHCqHueB0Vx",
+    "patient": "pat-dsIASitXO6Q7"
+  },
+  {
+    "created_at": "2022-01-07 18:47:43",
+    "type": "membership.started",
+    "start_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-bwHCqHueB0Vx",
+    "patient": "pat-chr3QJAi7Ky8"
+  },
+  {
+    "created_at": "2022-01-07 18:47:43",
+    "type": "membership.started",
+    "start_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-bwHCqHueB0Vx",
+    "patient": "pat-JFVhdzQVixvQ"
+  },
+  {
+    "created_at": "2022-01-07 18:47:43",
+    "type": "membership.started",
+    "start_date": "2022-01-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-bwHCqHueB0Vx",
+    "patient": "pat-aCssE0Mc2jrH"
+  },
+  {
+    "created_at": "2022-01-09 20:05:22",
+    "type": "membership.started",
+    "start_date": "2022-01-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-96mhC5h56IqC",
+    "patient": "pat-PaOZESlpKTB1"
+  },
+  {
+    "created_at": "2022-01-10 15:54:14",
+    "type": "membership.started",
+    "start_date": "2022-01-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UtMRfVRccd9X",
+    "patient": "pat-8qCbVJdIQq4d"
+  },
+  {
+    "created_at": "2022-01-10 16:10:23",
+    "type": "membership.started",
+    "start_date": "2022-01-10",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-wUDnYNnN9rKj",
+    "patient": "pat-rDXmBSqzlVBt"
+  },
+  {
+    "created_at": "2022-01-10 16:15:27",
+    "type": "membership.started",
+    "start_date": "2022-01-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-QgezSEgGEOrp",
+    "patient": "pat-yRXJ910W7EEQ"
+  },
+  {
+    "created_at": "2022-01-10 16:30:28",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-48Vwmc8j2K0Q",
+    "patient": "pat-pSEVIgL1lSmB"
+  },
+  {
+    "created_at": "2022-01-10 16:32:03",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-48Vwmc8j2K0Q",
+    "patient": "pat-1OYVtwDi7kC9"
+  },
+  {
+    "created_at": "2022-01-10 16:37:13",
+    "type": "membership.ended",
+    "end_date": "2022-01-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ai7S6HusN2Vt",
+    "patient": "pat-DP65RuEjuq83"
+  },
+  {
+    "created_at": "2022-01-10 19:45:01",
+    "type": "membership.started",
+    "start_date": "2022-01-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-gHcTwojwXGMB",
+    "patient": "pat-nJryJNiS5JDJ"
+  },
+  {
+    "created_at": "2022-01-10 20:22:22",
+    "type": "membership.ended",
+    "end_date": "2022-01-10",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-rbtHrEIEz0gZ",
+    "patient": "pat-bfGH5xM7edh5"
+  },
+  {
+    "created_at": "2022-01-10 20:22:22",
+    "type": "membership.ended",
+    "end_date": "2022-01-10",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-rbtHrEIEz0gZ",
+    "patient": "pat-UoKJcXlmMYk7"
+  },
+  {
+    "created_at": "2022-01-11 13:52:14",
+    "type": "membership.started",
+    "start_date": "2022-01-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-kWP65es8Wcwr",
+    "patient": "pat-yqJnbVpjzt5z"
+  },
+  {
+    "created_at": "2022-01-11 15:48:17",
+    "type": "membership.started",
+    "start_date": "2022-01-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-yH0JGQPfn6GW",
+    "patient": "pat-3d0hYg4p7KvE"
+  },
+  {
+    "created_at": "2022-01-11 15:48:17",
+    "type": "membership.started",
+    "start_date": "2022-01-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-yH0JGQPfn6GW",
+    "patient": "pat-58JXDK71g8HP"
+  },
+  {
+    "created_at": "2022-01-11 19:04:53",
+    "type": "membership.ended",
+    "end_date": "2022-01-11",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-hTdFFtB5AKlI",
+    "patient": "pat-o5LlaNHRLGCC"
+  },
+  {
+    "created_at": "2022-01-11 19:19:48",
+    "type": "membership.ended",
+    "end_date": "2022-01-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-NlJ5uiABq9dw",
+    "patient": "pat-0zq7FAt6Wbmc"
+  },
+  {
+    "created_at": "2022-01-11 19:30:51",
+    "type": "membership.started",
+    "start_date": "2022-01-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3k43DGvkXNmV",
+    "patient": "pat-ZfKFeINAVQsG"
+  },
+  {
+    "created_at": "2022-01-12 15:39:04",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-qV2TwiPUSVw2",
+    "patient": "pat-fqnYzQ9sjpAE"
+  },
+  {
+    "created_at": "2022-01-12 15:59:00",
+    "type": "membership.price_changed",
+    "from_price": 10000,
+    "to_price": 0,
+    "membership": "mem-3iGhCF12m7oZ"
+  },
+  {
+    "created_at": "2022-01-12 17:54:48",
+    "type": "membership.started",
+    "start_date": "2022-01-12",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-NlUqzfr6fZkv",
+    "patient": "pat-fUmXFJAUJKjk"
+  },
+  {
+    "created_at": "2022-01-12 17:54:48",
+    "type": "membership.started",
+    "start_date": "2022-01-12",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-NlUqzfr6fZkv",
+    "patient": "pat-TokpFaRZdgXa"
+  },
+  {
+    "created_at": "2022-01-12 18:31:49",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-0moZygnsaqCH",
+    "patient": "pat-vMoF2oJoEFhj"
+  },
+  {
+    "created_at": "2022-01-12 19:24:05",
+    "type": "membership.started",
+    "start_date": "2022-01-12",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-InHA3izhtIhS",
+    "patient": "pat-Meprh4okJia0"
+  },
+  {
+    "created_at": "2022-01-12 20:02:09",
+    "type": "membership.ended",
+    "end_date": "2022-01-12",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ADYoWZWQhQLO",
+    "patient": "pat-rNZajCkctBA8"
+  },
+  {
+    "created_at": "2022-01-13 17:17:19",
+    "type": "membership.started",
+    "start_date": "2022-01-13",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-7vpHNqZ132qc",
+    "patient": "pat-YDgjbLRBpI6h"
+  },
+  {
+    "created_at": "2022-01-13 20:10:37",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3D4g7rtVHZ2n",
+    "patient": "pat-qd2jSlF6HErl"
+  },
+  {
+    "created_at": "2022-01-13 20:10:37",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3D4g7rtVHZ2n",
+    "patient": "pat-86cpDFe3rbn6"
+  },
+  {
+    "created_at": "2022-01-13 20:10:37",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3D4g7rtVHZ2n",
+    "patient": "pat-ImPXO9ZneD30"
+  },
+  {
+    "created_at": "2022-01-13 21:45:23",
+    "type": "membership.started",
+    "start_date": "2022-01-13",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-qM1iCbmQIlo0",
+    "patient": "pat-5niRR0J8lAdc"
+  },
+  {
+    "created_at": "2022-01-14 03:55:51",
+    "type": "membership.started",
+    "start_date": "2022-01-13",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PjX0eW78glSp",
+    "patient": "pat-0G70ggFFfXSS"
+  },
+  {
+    "created_at": "2022-01-14 03:55:51",
+    "type": "membership.started",
+    "start_date": "2022-01-13",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PjX0eW78glSp",
+    "patient": "pat-4a6PCP75keDv"
+  },
+  {
+    "created_at": "2022-01-14 15:18:51",
+    "type": "membership.started",
+    "start_date": "2022-01-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-dqXFdxSX37md",
+    "patient": "pat-Z9KMmXPgXPT9"
+  },
+  {
+    "created_at": "2022-01-14 16:53:58",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-YIbjpSqrx2dG",
+    "patient": "pat-LoMkCcGunCAC"
+  },
+  {
+    "created_at": "2022-01-14 16:53:58",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YIbjpSqrx2dG",
+    "patient": "pat-0ADXaEUjpPks"
+  },
+  {
+    "created_at": "2022-01-14 16:53:58",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YIbjpSqrx2dG",
+    "patient": "pat-OsAxqoboWvr4"
+  },
+  {
+    "created_at": "2022-01-14 17:32:03",
+    "type": "membership.started",
+    "start_date": "2022-01-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vOPppCXatvlr",
+    "patient": "pat-bh36GQT0mBca"
+  },
+  {
+    "created_at": "2022-01-14 17:32:03",
+    "type": "membership.started",
+    "start_date": "2022-01-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vOPppCXatvlr",
+    "patient": "pat-hz2KvpCVvevw"
+  },
+  {
+    "created_at": "2022-01-14 18:03:36",
+    "type": "membership.started",
+    "start_date": "2022-01-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-2iD7vFE0NQRo",
+    "patient": "pat-aZ6A0E49vbqi"
+  },
+  {
+    "created_at": "2022-01-14 20:24:39",
+    "type": "membership.started",
+    "start_date": "2022-01-14",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-3TvgXwEL7mbR",
+    "patient": "pat-xpv3pOUO5H86"
+  },
+  {
+    "created_at": "2022-01-17 15:38:29",
+    "type": "membership.started",
+    "start_date": "2022-01-17",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-f6CJBQZbROxK",
+    "patient": "pat-Y28wx4CLkgCn"
+  },
+  {
+    "created_at": "2022-01-17 16:53:28",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PWN3xNzp02N4",
+    "patient": "pat-I5FmgkQnYutf"
+  },
+  {
+    "created_at": "2022-01-17 16:53:28",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PWN3xNzp02N4",
+    "patient": "pat-a9I2topFONKz"
+  },
+  {
+    "created_at": "2022-01-17 17:36:45",
+    "type": "membership.started",
+    "start_date": "2022-01-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ZGMeIO8NCSAF",
+    "patient": "pat-fn9ZigJnaHQe"
+  },
+  {
+    "created_at": "2022-01-18 14:15:54",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Bpp50eN6ozsL",
+    "patient": "pat-etn43riwiFuD"
+  },
+  {
+    "created_at": "2022-01-18 15:28:38",
+    "type": "membership.ended",
+    "end_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-BefS3909vZiT",
+    "patient": "pat-9wo5YdISiuQl"
+  },
+  {
+    "created_at": "2022-01-18 16:36:21",
+    "type": "membership.ended",
+    "end_date": "2022-01-18",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-UAEr1ypom5hO",
+    "patient": "pat-CgT5eMNyur4E"
+  },
+  {
+    "created_at": "2022-01-18 16:36:34",
+    "type": "membership.ended",
+    "end_date": "2022-01-18",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-UAEr1ypom5hO",
+    "patient": "pat-i6MdkMVwMSpt"
+  },
+  {
+    "created_at": "2022-01-18 16:36:46",
+    "type": "membership.ended",
+    "end_date": "2022-01-18",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-UAEr1ypom5hO",
+    "patient": "pat-JV7BSsPS3QvX"
+  },
+  {
+    "created_at": "2022-01-18 16:43:08",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-PbgMZc5NXtQ0",
+    "patient": "pat-B1rfvaNL4d0g"
+  },
+  {
+    "created_at": "2022-01-18 17:24:01",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-hSN7hjPLsLjq",
+    "patient": "pat-otFOSipc1aWN"
+  },
+  {
+    "created_at": "2022-01-18 18:32:04",
+    "type": "membership.ended",
+    "end_date": "2022-01-18",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-HP60t12S6TMZ",
+    "patient": "pat-t309CjfOiN2a"
+  },
+  {
+    "created_at": "2022-01-18 19:41:40",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-BMBBtBSqq0xp",
+    "patient": "pat-7dFY7dtTd7vJ"
+  },
+  {
+    "created_at": "2022-01-18 19:56:34",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-QAmK5nQWhhoJ",
+    "patient": "pat-aadmOQb3ghDg"
+  },
+  {
+    "created_at": "2022-01-18 21:26:11",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-7Anb50jqjXX9",
+    "patient": "pat-FBfdzAIhAqAi"
+  },
+  {
+    "created_at": "2022-01-18 22:34:08",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-TURGWcLCmVlM",
+    "patient": "pat-YFfT1C02FGuZ"
+  },
+  {
+    "created_at": "2022-01-19 07:07:01",
+    "type": "membership.started",
+    "start_date": "2022-01-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-tY7OFl14z4YN",
+    "patient": "pat-APdjpLDFiH6j"
+  },
+  {
+    "created_at": "2022-01-19 14:01:26",
+    "type": "membership.started",
+    "start_date": "2022-01-19",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-pM1nM1qC4ZAL",
+    "patient": "pat-w5boFW7ScElw"
+  },
+  {
+    "created_at": "2022-01-19 16:38:58",
+    "type": "membership.started",
+    "start_date": "2022-01-19",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-cbwwpFvsNzFe",
+    "patient": "pat-0LMyNb1qRWA6"
+  },
+  {
+    "created_at": "2022-01-19 16:40:55",
+    "type": "membership.started",
+    "start_date": "2022-01-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-NoPJ5PNlqohZ",
+    "patient": "pat-xoEcjQVQydll"
+  },
+  {
+    "created_at": "2022-01-20 02:31:17",
+    "type": "membership.started",
+    "start_date": "2022-01-19",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-qlQcxvlATIIK",
+    "patient": "pat-ejitIZkkQjZK"
+  },
+  {
+    "created_at": "2022-01-20 16:58:28",
+    "type": "membership.started",
+    "start_date": "2022-01-20",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vE2uWlqkSGyz",
+    "patient": "pat-hWxczGNNiiio"
+  },
+  {
+    "created_at": "2022-01-20 19:28:29",
+    "type": "membership.ended",
+    "end_date": "2022-01-20",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-JES4Z9QqGdX4",
+    "patient": "pat-dfj97JEQ4mgW"
+  },
+  {
+    "created_at": "2022-01-20 19:41:21",
+    "type": "membership.started",
+    "start_date": "2022-01-20",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-mZC6yVicJ6Qo",
+    "patient": "pat-PuVHJTngJTTY"
+  },
+  {
+    "created_at": "2022-01-20 21:40:45",
+    "type": "membership.ended",
+    "end_date": "2022-01-20",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-8UOmaORJMd00",
+    "patient": "pat-XRzl8iiNfyb6"
+  },
+  {
+    "created_at": "2022-01-20 21:57:31",
+    "type": "membership.ended",
+    "end_date": "2022-01-20",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-6a8iVxCW0mMy",
+    "patient": "pat-i1YoHfSTHTqc"
+  },
+  {
+    "created_at": "2022-01-20 22:07:52",
+    "type": "membership.ended",
+    "end_date": "2022-01-20",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-1GX0SEqg3An9",
+    "patient": "pat-xu6uAgxcmj6v"
+  },
+  {
+    "created_at": "2022-01-21 15:32:24",
+    "type": "membership.started",
+    "start_date": "2022-01-21",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-kxk6SeV5fdC2",
+    "patient": "pat-kIL1kp0g9Daz"
+  },
+  {
+    "created_at": "2022-01-21 15:47:01",
+    "type": "membership.price_changed",
+    "from_price": 15000,
+    "to_price": 10000,
+    "membership": "mem-GPAMuaIZWjyp"
+  },
+  {
+    "created_at": "2022-01-21 16:33:17",
+    "type": "membership.ended",
+    "end_date": "2022-01-21",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-qlQcxvlATIIK",
+    "patient": "pat-ejitIZkkQjZK"
+  },
+  {
+    "created_at": "2022-01-22 16:18:55",
+    "type": "membership.started",
+    "start_date": "2022-01-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-GeoOn5d8Cw5Z",
+    "patient": "pat-gGgB9i2PwvBW"
+  },
+  {
+    "created_at": "2022-01-24 14:54:24",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sU0J6alvhDWW",
+    "patient": "pat-NvFot65Ote1c"
+  },
+  {
+    "created_at": "2022-01-24 14:54:24",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sU0J6alvhDWW",
+    "patient": "pat-mfhKx45QcpSY"
+  },
+  {
+    "created_at": "2022-01-24 15:24:19",
+    "type": "membership.started",
+    "start_date": "2022-01-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-OxQOiNpNIdnx",
+    "patient": "pat-EoZdeehaHsRa"
+  },
+  {
+    "created_at": "2022-01-24 17:18:00",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-7QLv4lMO6XcC",
+    "patient": "pat-FTUVozIBM2ZX"
+  },
+  {
+    "created_at": "2022-01-24 17:49:22",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-UJi0Wx0SPajV",
+    "patient": "pat-3fXRFu197qGY"
+  },
+  {
+    "created_at": "2022-01-24 17:49:22",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UJi0Wx0SPajV",
+    "patient": "pat-3h9orFN4wsX7"
+  },
+  {
+    "created_at": "2022-01-24 17:49:22",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-UJi0Wx0SPajV",
+    "patient": "pat-MftqtnBP1l3c"
+  },
+  {
+    "created_at": "2022-01-24 17:49:22",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UJi0Wx0SPajV",
+    "patient": "pat-OBbdjGh8Dwc2"
+  },
+  {
+    "created_at": "2022-01-24 18:41:35",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-E2akKHcclteh",
+    "patient": "pat-9kSJ9RKWwz8n"
+  },
+  {
+    "created_at": "2022-01-24 21:05:36",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-LJ5Oyr3XHLFq",
+    "patient": "pat-9JX9Uzan1C2J"
+  },
+  {
+    "created_at": "2022-01-24 21:05:37",
+    "type": "membership.ended",
+    "end_date": "2022-01-24",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-LJ5Oyr3XHLFq",
+    "patient": "pat-mmtoQESkHhk3"
+  },
+  {
+    "created_at": "2022-01-25 14:01:10",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-sKujOs9cUNWO",
+    "patient": "pat-giQlzVsbDCk0"
+  },
+  {
+    "created_at": "2022-01-25 15:30:02",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UxO1sK54QHNs",
+    "patient": "pat-U10GUuu5CZoj"
+  },
+  {
+    "created_at": "2022-01-25 15:49:16",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-yMopBqNAzsUZ",
+    "patient": "pat-k0fvhjdcuw2r"
+  },
+  {
+    "created_at": "2022-01-25 16:58:34",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-8yDMXg2bbp8s",
+    "patient": "pat-LMBW2rRvM1tZ"
+  },
+  {
+    "created_at": "2022-01-25 17:39:22",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-deUfMEZ8I5I8",
+    "patient": "pat-yL9N8COrtLiH"
+  },
+  {
+    "created_at": "2022-01-25 17:39:22",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-deUfMEZ8I5I8",
+    "patient": "pat-0QCzIlmWji3s"
+  },
+  {
+    "created_at": "2022-01-25 21:31:08",
+    "type": "membership.ended",
+    "end_date": "2022-01-25",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-5HyvQ6uIh69R",
+    "patient": "pat-pleiypBFbHf9"
+  },
+  {
+    "created_at": "2022-01-25 22:05:32",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ZDTo5lxHYoiK",
+    "patient": "pat-GRB5hn2OJE73"
+  },
+  {
+    "created_at": "2022-01-26 00:36:59",
+    "type": "membership.started",
+    "start_date": "2022-01-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-kBMnTgh0E67g",
+    "patient": "pat-zMrmZ45mubl3"
+  },
+  {
+    "created_at": "2022-01-26 17:03:56",
+    "type": "membership.started",
+    "start_date": "2022-01-26",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-GNxMpTJH50VR",
+    "patient": "pat-5ybjBfvQSJfF"
+  },
+  {
+    "created_at": "2022-01-27 15:32:56",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-UeCSeZG9qw5Y",
+    "patient": "pat-GjqstT9dNrWn"
+  },
+  {
+    "created_at": "2022-01-27 15:44:05",
+    "type": "membership.started",
+    "start_date": "2022-01-27",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-e1LC0eDDE4mT",
+    "patient": "pat-iZz6Jck75G8V"
+  },
+  {
+    "created_at": "2022-01-27 20:51:14",
+    "type": "membership.ended",
+    "end_date": "2022-01-27",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-t79Qt5PGLmfk",
+    "patient": "pat-UuGYX70b0vkh"
+  },
+  {
+    "created_at": "2022-01-28 16:46:01",
+    "type": "membership.started",
+    "start_date": "2022-01-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vD91LgVj8JTE",
+    "patient": "pat-J6qZpFm3B6yi"
+  },
+  {
+    "created_at": "2022-01-28 16:55:52",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-dBXeW4Nmmswu",
+    "patient": "pat-cPFqGEaDQJJ6"
+  },
+  {
+    "created_at": "2022-01-28 16:57:20",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-1aAfyBjKOg5t",
+    "patient": "pat-CbXVPH0v6Irk"
+  },
+  {
+    "created_at": "2022-01-28 16:58:36",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-CFiHfAc6DlgW",
+    "patient": "pat-cB4Q1q4Ly8gw"
+  },
+  {
+    "created_at": "2022-01-28 17:00:13",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ZoMbBDXWqqcB",
+    "patient": "pat-aPmLUN9PPTan"
+  },
+  {
+    "created_at": "2022-01-30 00:19:03",
+    "type": "membership.started",
+    "start_date": "2022-01-29",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-KALJAciHv7SW",
+    "patient": "pat-grYO7jPVa2qH"
+  },
+  {
+    "created_at": "2022-01-31 15:23:13",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-RiM6O8TgSdlq",
+    "patient": "pat-AdzBGqZxb00t"
+  },
+  {
+    "created_at": "2022-01-31 15:24:27",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-RiM6O8TgSdlq",
+    "patient": "pat-jr98qLsVR7SX"
+  },
+  {
+    "created_at": "2022-01-31 15:25:06",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-RiM6O8TgSdlq",
+    "patient": "pat-75kiDgN9vMlk"
+  },
+  {
+    "created_at": "2022-01-31 15:26:22",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-M8TUn523ewPB",
+    "patient": "pat-dXBUgIDvA74k"
+  },
+  {
+    "created_at": "2022-01-31 15:27:56",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-CHfWNNjJKiuJ",
+    "patient": "pat-BHEsbW3imQWr"
+  },
+  {
+    "created_at": "2022-01-31 18:59:31",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Odkd34mHDeat",
+    "patient": "pat-mIIvjiV0Eupj"
+  },
+  {
+    "created_at": "2022-01-31 19:00:18",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Odkd34mHDeat",
+    "patient": "pat-TGzPWlcuryfN"
+  },
+  {
+    "created_at": "2022-01-31 19:01:19",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-Odkd34mHDeat",
+    "patient": "pat-Zpv57ikc4oOg"
+  },
+  {
+    "created_at": "2022-01-31 19:02:56",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-pdy2yBxnFwTZ",
+    "patient": "pat-WyagZ1QZ9Wn9"
+  },
+  {
+    "created_at": "2022-01-31 19:03:47",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-pdy2yBxnFwTZ",
+    "patient": "pat-q1nWTafoBx7M"
+  },
+  {
+    "created_at": "2022-01-31 19:04:34",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-pdy2yBxnFwTZ",
+    "patient": "pat-DwCvNZ6kB5I5"
+  },
+  {
+    "created_at": "2022-01-31 19:05:25",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-pdy2yBxnFwTZ",
+    "patient": "pat-WGmEBnKODKfF"
+  },
+  {
+    "created_at": "2022-01-31 19:06:11",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-pdy2yBxnFwTZ",
+    "patient": "pat-RLovK0MT4CCA"
+  },
+  {
+    "created_at": "2022-01-31 19:07:43",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Zljxfo06LTaR",
+    "patient": "pat-UFNshepsxu2c"
+  },
+  {
+    "created_at": "2022-01-31 19:08:28",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Zljxfo06LTaR",
+    "patient": "pat-gELggfoh2Pgz"
+  },
+  {
+    "created_at": "2022-01-31 19:10:01",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Zljxfo06LTaR",
+    "patient": "pat-CUbFqCQ3ljpt"
+  },
+  {
+    "created_at": "2022-01-31 19:10:57",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ttTkjFS187dm",
+    "patient": "pat-DE1LFGVvSiSS"
+  },
+  {
+    "created_at": "2022-01-31 20:33:08",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-PeLzP1vEhNnq",
+    "patient": "pat-s1WuEAXZzp1g"
+  },
+  {
+    "created_at": "2022-01-31 20:34:04",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-AhuAQHTCEes1",
+    "patient": "pat-L5u23Pp91jI3"
+  },
+  {
+    "created_at": "2022-01-31 20:34:53",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-QIH5wRRX4O2F",
+    "patient": "pat-LV3awFLMW7AX"
+  },
+  {
+    "created_at": "2022-01-31 20:42:39",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Wt7RUy1ZK191",
+    "patient": "pat-3WIdcI7TbTjz"
+  },
+  {
+    "created_at": "2022-01-31 20:43:21",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Wt7RUy1ZK191",
+    "patient": "pat-ktlg7WXubiTb"
+  },
+  {
+    "created_at": "2022-01-31 20:43:55",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-Wt7RUy1ZK191",
+    "patient": "pat-iuzWmKYVGXQl"
+  },
+  {
+    "created_at": "2022-01-31 20:45:05",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-IdvtzijQ2AhK",
+    "patient": "pat-RJHhacB7ihtT"
+  },
+  {
+    "created_at": "2022-01-31 20:46:02",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-IbRF6zHauiJW",
+    "patient": "pat-tRg7WxKbTnd9"
+  },
+  {
+    "created_at": "2022-01-31 20:46:49",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cMutBLMStCq9",
+    "patient": "pat-djC1nmNBlNgB"
+  },
+  {
+    "created_at": "2022-01-31 20:54:43",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-MgSgxBK7jJqn",
+    "patient": "pat-gyczE49QpAWG"
+  },
+  {
+    "created_at": "2022-01-31 20:55:53",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-jAhlKvWTsduG",
+    "patient": "pat-NxAFMTGDfYBT"
+  },
+  {
+    "created_at": "2022-01-31 20:56:58",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-oAbARZdw7fSv",
+    "patient": "pat-G8aQY4RhRuUi"
+  },
+  {
+    "created_at": "2022-01-31 20:58:15",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-0OAdGSe9ubAp",
+    "patient": "pat-tG7lXyORY79z"
+  },
+  {
+    "created_at": "2022-01-31 20:59:20",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-z3CMlmRUlYsU",
+    "patient": "pat-fm3hozYrcAmM"
+  },
+  {
+    "created_at": "2022-01-31 21:00:13",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ySjtQwUJ1pvU",
+    "patient": "pat-OuvSViXQ79wF"
+  },
+  {
+    "created_at": "2022-01-31 21:01:04",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-tR4HZTUdDCs5",
+    "patient": "pat-6nViuJWsgVXL"
+  },
+  {
+    "created_at": "2022-02-01 13:13:18",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-aX9iMDIPNI7D"
+  },
+  {
+    "created_at": "2022-02-01 15:02:50",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3D4g7rtVHZ2n",
+    "patient": "pat-ImPXO9ZneD30"
+  },
+  {
+    "created_at": "2022-02-01 15:02:50",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3D4g7rtVHZ2n",
+    "patient": "pat-qd2jSlF6HErl"
+  },
+  {
+    "created_at": "2022-02-01 15:02:50",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3D4g7rtVHZ2n",
+    "patient": "pat-86cpDFe3rbn6"
+  },
+  {
+    "created_at": "2022-02-01 15:05:57",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AsWIbQG1X5M6",
+    "patient": "pat-EQtiYINyXyfQ"
+  },
+  {
+    "created_at": "2022-02-01 15:11:00",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-fnpGVA3eLZij",
+    "patient": "pat-nfbbJqi912aw"
+  },
+  {
+    "created_at": "2022-02-01 15:16:22",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-icobZSmLQypd",
+    "patient": "pat-HtN1xxNnoYr3"
+  },
+  {
+    "created_at": "2022-02-01 15:47:09",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-eR1BUSCFa5xr",
+    "patient": "pat-Wd3nBz6iE5m9"
+  },
+  {
+    "created_at": "2022-02-01 15:52:23",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-FkZFOtlL6Vyr",
+    "patient": "pat-CrNy7m38wBuv"
+  },
+  {
+    "created_at": "2022-02-01 20:36:27",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-OCXlMuvy7oCI",
+    "patient": "pat-ZG11donJbk3A"
+  },
+  {
+    "created_at": "2022-02-01 20:37:35",
+    "type": "membership.started",
+    "start_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-OCXlMuvy7oCI",
+    "patient": "pat-QuAEBBvtQA45"
+  },
+  {
+    "created_at": "2022-02-01 20:38:57",
+    "type": "membership.ended",
+    "end_date": "2022-02-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-TVNHcbgcq3w0",
+    "patient": "pat-YyLUJPLEFiKC"
+  },
+  {
+    "created_at": "2022-02-02 10:09:57",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-pdy2yBxnFwTZ"
+  },
+  {
+    "created_at": "2022-02-02 15:38:03",
+    "type": "membership.price_changed",
+    "from_price": 1100,
+    "to_price": 9900,
+    "membership": "mem-319xnT5unzvB"
+  },
+  {
+    "created_at": "2022-02-02 15:51:57",
+    "type": "membership.price_changed",
+    "from_price": 0,
+    "to_price": 10000,
+    "membership": "mem-PyQO37L68xRf"
+  },
+  {
+    "created_at": "2022-02-02 17:00:06",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-mqCYdl39C4wF",
+    "patient": "pat-5KVYntr1JQKD"
+  },
+  {
+    "created_at": "2022-02-02 18:15:25",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-K4wcb0YTJbPU",
+    "patient": "pat-bhmcXjnLJBVj"
+  },
+  {
+    "created_at": "2022-02-02 18:29:58",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-PxzH0e3E8GUP",
+    "patient": "pat-NdczOl4sNL7n"
+  },
+  {
+    "created_at": "2022-02-02 18:29:58",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PxzH0e3E8GUP",
+    "patient": "pat-2BAnH8HknWdw"
+  },
+  {
+    "created_at": "2022-02-02 18:29:58",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PxzH0e3E8GUP",
+    "patient": "pat-PDiqtgFIwYcI"
+  },
+  {
+    "created_at": "2022-02-02 18:44:07",
+    "type": "membership.started",
+    "start_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-99GGVvKXLmu0",
+    "patient": "pat-zZn12zmV3ysm"
+  },
+  {
+    "created_at": "2022-02-02 20:28:31",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-ZhtcTXKqarSo",
+    "patient": "pat-KthlD6J60Opp"
+  },
+  {
+    "created_at": "2022-02-02 20:42:59",
+    "type": "membership.ended",
+    "end_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-nC1gqRGYIQsk",
+    "patient": "pat-sFG6dXYvus4R"
+  },
+  {
+    "created_at": "2022-02-02 21:53:04",
+    "type": "membership.started",
+    "start_date": "2022-02-02",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-M1qFEGnaee0T",
+    "patient": "pat-gUMJv79EWp0y"
+  },
+  {
+    "created_at": "2022-02-03 00:46:19",
+    "type": "membership.started",
+    "start_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-znfR7gKguzI7",
+    "patient": "pat-y4gli4wwD7MQ"
+  },
+  {
+    "created_at": "2022-02-03 02:22:44",
+    "type": "membership.started",
+    "start_date": "2022-02-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-W9jBH1EGVVsA",
+    "patient": "pat-1Mbv86B5zvpG"
+  },
+  {
+    "created_at": "2022-02-03 14:35:32",
+    "type": "membership.started",
+    "start_date": "2022-02-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AUR7aCotmKSy",
+    "patient": "pat-B1UMzFY0eZiu"
+  },
+  {
+    "created_at": "2022-02-03 16:21:31",
+    "type": "membership.ended",
+    "end_date": "2022-02-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AxHz69GWNmqK",
+    "patient": "pat-B37bdmkFYM6z"
+  },
+  {
+    "created_at": "2022-02-03 16:21:32",
+    "type": "membership.ended",
+    "end_date": "2022-02-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AxHz69GWNmqK",
+    "patient": "pat-gwIb5zTgKqXA"
+  },
+  {
+    "created_at": "2022-02-03 16:21:32",
+    "type": "membership.ended",
+    "end_date": "2022-02-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AxHz69GWNmqK",
+    "patient": "pat-3sa5ypghGzXE"
+  },
+  {
+    "created_at": "2022-02-03 16:21:32",
+    "type": "membership.ended",
+    "end_date": "2022-02-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-AxHz69GWNmqK",
+    "patient": "pat-kw3TqkOOjzOY"
+  },
+  {
+    "created_at": "2022-02-03 16:22:56",
+    "type": "membership.ended",
+    "end_date": "2022-02-03",
+    "plan": "pln-Cw5R6gEnaHJ2",
+    "price": 9000,
+    "membership": "mem-ZTsL3McCnPZK",
+    "patient": "pat-YanD5DdXoL7P"
+  },
+  {
+    "created_at": "2022-02-03 16:46:32",
+    "type": "membership.ended",
+    "end_date": "2022-02-03",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-7vQwXMtN0GPv",
+    "patient": "pat-C4EJN9wwFApD"
+  },
+  {
+    "created_at": "2022-02-03 18:40:57",
+    "type": "membership.started",
+    "start_date": "2022-02-03",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-JtxDugDDOEc5",
+    "patient": "pat-WfYCDlR6lcyd"
+  },
+  {
+    "created_at": "2022-02-03 20:00:10",
+    "type": "membership.started",
+    "start_date": "2022-02-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-BoPCh8nVQ2qF",
+    "patient": "pat-nSHIO57fwaEi"
+  },
+  {
+    "created_at": "2022-02-04 16:52:12",
+    "type": "membership.ended",
+    "end_date": "2022-02-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-znfR7gKguzI7",
+    "patient": "pat-y4gli4wwD7MQ"
+  },
+  {
+    "created_at": "2022-02-04 19:12:27",
+    "type": "membership.started",
+    "start_date": "2022-02-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-iUDI5jyrKvQQ",
+    "patient": "pat-xCA7i5dEaZil"
+  },
+  {
+    "created_at": "2022-02-04 19:47:03",
+    "type": "membership.started",
+    "start_date": "2022-02-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-dk3cBtsFD11D",
+    "patient": "pat-xOYupKnbKMP0"
+  },
+  {
+    "created_at": "2022-02-07 15:41:25",
+    "type": "membership.ended",
+    "end_date": "2022-02-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-4Y2iwDH4KEMJ",
+    "patient": "pat-tGBS0XlGyEzi"
+  },
+  {
+    "created_at": "2022-02-07 16:47:21",
+    "type": "membership.started",
+    "start_date": "2022-02-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-5Mln5a7yEDM9",
+    "patient": "pat-YHeOzCskQ7gr"
+  },
+  {
+    "created_at": "2022-02-07 17:01:02",
+    "type": "membership.started",
+    "start_date": "2022-02-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-LsbSsDU8F8eH",
+    "patient": "pat-EhPVMwwA5Qar"
+  },
+  {
+    "created_at": "2022-02-07 18:41:24",
+    "type": "membership.started",
+    "start_date": "2022-02-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-GKPEN3N1rWkV",
+    "patient": "pat-dJAzW35VoL3j"
+  },
+  {
+    "created_at": "2022-02-08 15:47:28",
+    "type": "membership.started",
+    "start_date": "2022-02-08",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Jxykclr0NJup",
+    "patient": "pat-jpIPASI4bxeh"
+  },
+  {
+    "created_at": "2022-02-08 17:44:34",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-8lYVqawXOSLA",
+    "patient": "pat-kgYn2fNzMgWN"
+  },
+  {
+    "created_at": "2022-02-08 17:45:50",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-2k7qyQdYnCd9",
+    "patient": "pat-L841mQw2ylAe"
+  },
+  {
+    "created_at": "2022-02-08 17:47:10",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-HdxCWO26oOSi",
+    "patient": "pat-Y6mzH1Wyb9jP"
+  },
+  {
+    "created_at": "2022-02-08 17:48:32",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-9fDvQZ1g0BnN",
+    "patient": "pat-SSBsTMRQhgxY"
+  },
+  {
+    "created_at": "2022-02-08 17:50:18",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-S56TZy12k1ln",
+    "patient": "pat-2M1CkEUf4sH6"
+  },
+  {
+    "created_at": "2022-02-08 17:51:29",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-S56TZy12k1ln",
+    "patient": "pat-wNQSPLVaffPy"
+  },
+  {
+    "created_at": "2022-02-08 17:52:19",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-bk97gkBKhcgE",
+    "patient": "pat-T4dr5XrTEqRO"
+  },
+  {
+    "created_at": "2022-02-08 17:53:12",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-bk97gkBKhcgE",
+    "patient": "pat-Rx49inN7TGny"
+  },
+  {
+    "created_at": "2022-02-08 17:54:27",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-uTko0JaGAxYW",
+    "patient": "pat-qcTbLH2wYUPz"
+  },
+  {
+    "created_at": "2022-02-08 17:55:18",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-hhvyL26ANYUv",
+    "patient": "pat-rZBZLjc4QJqa"
+  },
+  {
+    "created_at": "2022-02-08 17:56:11",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-hhvyL26ANYUv",
+    "patient": "pat-N7mqvdq1x9p0"
+  },
+  {
+    "created_at": "2022-02-08 17:56:57",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sYTydpg6xeHc",
+    "patient": "pat-vwfQ4NnXc4Rh"
+  },
+  {
+    "created_at": "2022-02-09 16:19:57",
+    "type": "membership.ended",
+    "end_date": "2022-02-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-C8IL3P1WHfNm",
+    "patient": "pat-JUMNOHW8WE4a"
+  },
+  {
+    "created_at": "2022-02-09 19:59:42",
+    "type": "membership.ended",
+    "end_date": "2022-02-09",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-Hz27UXeiGVPZ",
+    "patient": "pat-MdFVbNZFPxhh"
+  },
+  {
+    "created_at": "2022-02-09 21:03:38",
+    "type": "membership.started",
+    "start_date": "2022-02-27",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-FZAuPDh1geB6",
+    "patient": "pat-LwsdLk29UUfa"
+  },
+  {
+    "created_at": "2022-02-09 23:40:13",
+    "type": "membership.started",
+    "start_date": "2022-02-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-lmfYKslZ3pcT",
+    "patient": "pat-BqZ7jm9EwY9p"
+  },
+  {
+    "created_at": "2022-02-10 19:26:54",
+    "type": "membership.started",
+    "start_date": "2022-02-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3szsYwtV99b5",
+    "patient": "pat-myTvXw1Efowm"
+  },
+  {
+    "created_at": "2022-02-10 19:45:37",
+    "type": "membership.ended",
+    "end_date": "2022-02-10",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-mxCdnKIaSxjQ",
+    "patient": "pat-kMQKxgqraSnl"
+  },
+  {
+    "created_at": "2022-02-11 17:03:05",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-mLBDLS83lNgT",
+    "patient": "pat-cWhWpboMSHyb"
+  },
+  {
+    "created_at": "2022-02-11 17:03:05",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-mLBDLS83lNgT",
+    "patient": "pat-0ImHIpQbQawb"
+  },
+  {
+    "created_at": "2022-02-11 17:05:39",
+    "type": "membership.ended",
+    "end_date": "2022-02-11",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-jqEREvet5eMc",
+    "patient": "pat-yJZaxdmAtnQQ"
+  },
+  {
+    "created_at": "2022-02-11 17:06:01",
+    "type": "membership.ended",
+    "end_date": "2022-02-11",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-QRIYndjbhfZJ",
+    "patient": "pat-qr1RPc4Uyknr"
+  },
+  {
+    "created_at": "2022-02-11 17:14:49",
+    "type": "membership.ended",
+    "end_date": "2022-02-11",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-YrkUuMYcKNVz",
+    "patient": "pat-2H3x13kRtXvD"
+  },
+  {
+    "created_at": "2022-02-11 19:36:30",
+    "type": "membership.started",
+    "start_date": "2022-02-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-FYHKOSmL3xNQ",
+    "patient": "pat-ibQYilk57l6d"
+  },
+  {
+    "created_at": "2022-02-11 19:36:30",
+    "type": "membership.started",
+    "start_date": "2022-02-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-FYHKOSmL3xNQ",
+    "patient": "pat-ocFCXZvARk1P"
+  },
+  {
+    "created_at": "2022-02-15 02:26:09",
+    "type": "membership.started",
+    "start_date": "2022-02-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-MpXBk2qyavCJ",
+    "patient": "pat-jLU6Ft2sowtA"
+  },
+  {
+    "created_at": "2022-02-15 13:35:49",
+    "type": "membership.ended",
+    "end_date": "2022-02-15",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-QWyPhSpl8HIf",
+    "patient": "pat-T8LIFQbK21wo"
+  },
+  {
+    "created_at": "2022-02-15 16:33:33",
+    "type": "membership.started",
+    "start_date": "2022-02-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-SPcLZtWkMcjN",
+    "patient": "pat-PmEE0LTYnwsI"
+  },
+  {
+    "created_at": "2022-02-15 17:36:08",
+    "type": "membership.ended",
+    "end_date": "2022-02-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-lRciH0VxUfcb",
+    "patient": "pat-kNt43cMoBJag"
+  },
+  {
+    "created_at": "2022-02-15 18:07:24",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-QTpNyEkJA1WH",
+    "patient": "pat-45Fjo711KhNd"
+  },
+  {
+    "created_at": "2022-02-15 18:09:48",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-KcJjHGgAcgxF",
+    "patient": "pat-tsvYBEKbrXJl"
+  },
+  {
+    "created_at": "2022-02-15 18:10:35",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-KcJjHGgAcgxF",
+    "patient": "pat-MIOWOqUNpeRy"
+  },
+  {
+    "created_at": "2022-02-15 18:13:52",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-owhBYrfkjJYI",
+    "patient": "pat-JCOmfINUm5FX"
+  },
+  {
+    "created_at": "2022-02-15 18:14:48",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-owhBYrfkjJYI",
+    "patient": "pat-GVoj3d4smux7"
+  },
+  {
+    "created_at": "2022-02-15 18:15:12",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-owhBYrfkjJYI",
+    "patient": "pat-0WyB3O7Rr5g5"
+  },
+  {
+    "created_at": "2022-02-15 18:16:18",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-BtD2xycMdnjj",
+    "patient": "pat-APWuElWWAYeB"
+  },
+  {
+    "created_at": "2022-02-15 18:19:19",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-dOkFmcMQ10yQ",
+    "patient": "pat-46KzJy1cRmYr"
+  },
+  {
+    "created_at": "2022-02-15 18:20:10",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-MSxeJD3harwG",
+    "patient": "pat-VqUELMueZZXm"
+  },
+  {
+    "created_at": "2022-02-15 18:21:18",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-UrqbZXI0DZx6",
+    "patient": "pat-q2u235raymzC"
+  },
+  {
+    "created_at": "2022-02-15 18:22:35",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-WRa5rbgbweWE",
+    "patient": "pat-HEDRLtAVMLm2"
+  },
+  {
+    "created_at": "2022-02-15 18:23:16",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-WRa5rbgbweWE",
+    "patient": "pat-IHnwgmvwdPQI"
+  },
+  {
+    "created_at": "2022-02-15 18:24:45",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cbEos0roR46W",
+    "patient": "pat-v9ouqAjjcFXg"
+  },
+  {
+    "created_at": "2022-02-15 18:25:18",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cbEos0roR46W",
+    "patient": "pat-VSLfaCBre3Ne"
+  },
+  {
+    "created_at": "2022-02-15 18:26:18",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cbEos0roR46W",
+    "patient": "pat-unS2m3Vh4svk"
+  },
+  {
+    "created_at": "2022-02-15 18:26:42",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-cbEos0roR46W",
+    "patient": "pat-kQtNNwj3V3vx"
+  },
+  {
+    "created_at": "2022-02-15 18:27:19",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-bFL155JGfZfB",
+    "patient": "pat-92Mzs1KlDA4P"
+  },
+  {
+    "created_at": "2022-02-15 18:28:59",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-WEAkCcVWj7dJ",
+    "patient": "pat-V2fWP8aLGL9C"
+  },
+  {
+    "created_at": "2022-02-15 18:29:56",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-1J6UlKwsYX2v",
+    "patient": "pat-bOL3XAaZZaYb"
+  },
+  {
+    "created_at": "2022-02-15 18:30:45",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-LFkeJIQavwV1",
+    "patient": "pat-3poka536PuFL"
+  },
+  {
+    "created_at": "2022-02-15 18:32:26",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-6RpsAGuGCvSA",
+    "patient": "pat-bPcaSwEJmUtb"
+  },
+  {
+    "created_at": "2022-02-15 18:33:09",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-kvW7lasoaBYS",
+    "patient": "pat-OtNQpnvRORIO"
+  },
+  {
+    "created_at": "2022-02-15 18:34:22",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-lSZ7C7gu3RI7",
+    "patient": "pat-A643XWGiwn4e"
+  },
+  {
+    "created_at": "2022-02-15 18:35:06",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-uMTVhHZtf86j",
+    "patient": "pat-mrFi86vzPNZI"
+  },
+  {
+    "created_at": "2022-02-15 22:18:49",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-kvW7lasoaBYS",
+    "patient": "pat-GFXLywaNz5WU"
+  },
+  {
+    "created_at": "2022-02-16 00:35:48",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-56ENvP1s82oi",
+    "patient": "pat-JFlQ7Y5ifIds"
+  },
+  {
+    "created_at": "2022-02-16 15:09:57",
+    "type": "membership.ended",
+    "end_date": "2022-02-16",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-16LsyRBjgtpk",
+    "patient": "pat-tqs3b5Z93vlo"
+  },
+  {
+    "created_at": "2022-02-16 16:46:34",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Q1MUFdY0axP4",
+    "patient": "pat-a2i8CEeQxkLv"
+  },
+  {
+    "created_at": "2022-02-16 17:02:50",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-BGEwCB2HgNdg",
+    "patient": "pat-b7lEZcRCvKzb"
+  },
+  {
+    "created_at": "2022-02-17 13:43:03",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-zpSzXvA8tfVL",
+    "patient": "pat-xJr1YLEdEM6P"
+  },
+  {
+    "created_at": "2022-02-17 13:43:03",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-zpSzXvA8tfVL",
+    "patient": "pat-e23wGei64pGG"
+  },
+  {
+    "created_at": "2022-02-17 15:01:10",
+    "type": "membership.started",
+    "start_date": "2022-02-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-tns9uupNBtPb",
+    "patient": "pat-B94PbALsW5We"
+  },
+  {
+    "created_at": "2022-02-17 17:21:34",
+    "type": "membership.ended",
+    "end_date": "2022-02-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 7500,
+    "membership": "mem-an8AZEhQBLm4",
+    "patient": "pat-sZKiU5yZNfBd"
+  },
+  {
+    "created_at": "2022-02-17 17:21:34",
+    "type": "membership.ended",
+    "end_date": "2022-02-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 12500,
+    "membership": "mem-an8AZEhQBLm4",
+    "patient": "pat-vQ9oWbRQ9eyh"
+  },
+  {
+    "created_at": "2022-02-17 17:21:36",
+    "type": "membership.ended",
+    "end_date": "2022-02-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 12500,
+    "membership": "mem-an8AZEhQBLm4",
+    "patient": "pat-cmIqcqPNPff0"
+  },
+  {
+    "created_at": "2022-02-17 17:21:40",
+    "type": "membership.ended",
+    "end_date": "2022-02-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 12500,
+    "membership": "mem-an8AZEhQBLm4",
+    "patient": "pat-cf4y2p5R1MiB"
+  },
+  {
+    "created_at": "2022-02-18 14:45:39",
+    "type": "membership.ended",
+    "end_date": "2022-02-18",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-tKgq2IYX16Gg",
+    "patient": "pat-0oOGS2heecmx"
+  },
+  {
+    "created_at": "2022-02-18 19:22:32",
+    "type": "membership.started",
+    "start_date": "2022-02-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0BuSrOjEdhTQ",
+    "patient": "pat-RAUlp0TMSaQ9"
+  },
+  {
+    "created_at": "2022-02-18 23:48:21",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-UGoUJvu5ugWU",
+    "patient": "pat-htFucXb73oUT"
+  },
+  {
+    "created_at": "2022-02-21 15:41:13",
+    "type": "membership.ended",
+    "end_date": "2022-02-21",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-6T2Ou8xI9JJr",
+    "patient": "pat-x4xJSXZiAQO6"
+  },
+  {
+    "created_at": "2022-02-21 15:55:58",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sGW60D7TlS9P",
+    "patient": "pat-cMVsJUihdiDQ"
+  },
+  {
+    "created_at": "2022-02-21 15:57:03",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-DfAeRwmQqxAr",
+    "patient": "pat-kW23kisqWGdZ"
+  },
+  {
+    "created_at": "2022-02-21 15:57:51",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-OLPueRGiO5QM",
+    "patient": "pat-P7Tf5c8Uegro"
+  },
+  {
+    "created_at": "2022-02-21 17:49:17",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ceNOihWHpcDQ",
+    "patient": "pat-iSZFjPIs7uO8"
+  },
+  {
+    "created_at": "2022-02-21 17:49:17",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ceNOihWHpcDQ",
+    "patient": "pat-KVHFLCeIZIff"
+  },
+  {
+    "created_at": "2022-02-22 15:51:49",
+    "type": "membership.ended",
+    "end_date": "2022-02-22",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-5VBb6qHBOr40",
+    "patient": "pat-Y0hj1YUH7arH"
+  },
+  {
+    "created_at": "2022-02-22 15:55:22",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-hPIOJx3KGrKN",
+    "patient": "pat-WTMxc6ZuaN64"
+  },
+  {
+    "created_at": "2022-02-22 17:49:53",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vRLb1tK96QUh",
+    "patient": "pat-ICt4MzLLIhtp"
+  },
+  {
+    "created_at": "2022-02-22 18:32:46",
+    "type": "membership.ended",
+    "end_date": "2022-02-22",
+    "plan": "pln-FCebeMC2RLF9",
+    "price": 10000,
+    "membership": "mem-mr9UL42vPtfd",
+    "patient": "pat-gI92EbyI5w7G"
+  },
+  {
+    "created_at": "2022-02-22 19:38:00",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-A0JNwZT1nX6C",
+    "patient": "pat-VViCSIg1Kfsi"
+  },
+  {
+    "created_at": "2022-02-22 19:39:24",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-A0JNwZT1nX6C",
+    "patient": "pat-9lRflMQvFdKi"
+  },
+  {
+    "created_at": "2022-02-22 19:42:54",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-grRME8tyGIJW",
+    "patient": "pat-eVD2S7WR1uyP"
+  },
+  {
+    "created_at": "2022-02-22 19:48:03",
+    "type": "membership.started",
+    "start_date": "2022-02-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-i5oMpgqX2Nvq",
+    "patient": "pat-foyZMlw0Lb5z"
+  },
+  {
+    "created_at": "2022-02-23 15:49:59",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-WxXulrGmR4ya",
+    "patient": "pat-cVYOWEXR9J8O"
+  },
+  {
+    "created_at": "2022-02-23 16:35:24",
+    "type": "membership.ended",
+    "end_date": "2022-02-23",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-UrJ76I3PA7uM",
+    "patient": "pat-xY1jGbTkYlQK"
+  },
+  {
+    "created_at": "2022-02-23 18:55:19",
+    "type": "membership.started",
+    "start_date": "2022-03-06",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-TneYfGpuvHKi",
+    "patient": "pat-CUkfZ7XwX1Rb"
+  },
+  {
+    "created_at": "2022-02-23 22:36:43",
+    "type": "membership.started",
+    "start_date": "2022-02-23",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-sJ6uQWe2IYNw",
+    "patient": "pat-6w107VGlmGCe"
+  },
+  {
+    "created_at": "2022-02-24 15:46:29",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-TwUP7UWki8RI",
+    "patient": "pat-NRaD2WSkw7Kr"
+  },
+  {
+    "created_at": "2022-02-24 15:47:59",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-TwUP7UWki8RI",
+    "patient": "pat-5izpnoMSTULb"
+  },
+  {
+    "created_at": "2022-02-24 15:48:31",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-TwUP7UWki8RI",
+    "patient": "pat-WQSuv5blntQX"
+  },
+  {
+    "created_at": "2022-02-24 16:31:06",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-SPSkm02Fnsdj",
+    "patient": "pat-6zMeMU2mzMg8"
+  },
+  {
+    "created_at": "2022-02-24 16:32:11",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-VP9y8r9eYacN",
+    "patient": "pat-pATB1ru2BY2b"
+  },
+  {
+    "created_at": "2022-02-24 16:33:19",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-GVD8gzVc7mlj",
+    "patient": "pat-pgTBL6EjrpNT"
+  },
+  {
+    "created_at": "2022-02-24 16:34:26",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-q5NaGLjA8CUA",
+    "patient": "pat-lmidYhk161cz"
+  },
+  {
+    "created_at": "2022-02-24 16:40:11",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-CSXMvK81I96A",
+    "patient": "pat-tPFTJ6Mo2RXL"
+  },
+  {
+    "created_at": "2022-02-24 16:40:53",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-kZDVxAaJC3xF",
+    "patient": "pat-mY0rtTT7cF1x"
+  },
+  {
+    "created_at": "2022-02-24 16:42:03",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-MgYQl7GgfZ5t",
+    "patient": "pat-xeLUfDvR8oCq"
+  },
+  {
+    "created_at": "2022-02-24 16:43:06",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-MgYQl7GgfZ5t",
+    "patient": "pat-RglmuFCJH5LD"
+  },
+  {
+    "created_at": "2022-02-24 16:43:38",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-MgYQl7GgfZ5t",
+    "patient": "pat-QSvpLTaGxzTU"
+  },
+  {
+    "created_at": "2022-02-25 15:03:19",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-TwUP7UWki8RI",
+    "patient": "pat-yaoFxi42KRNi"
+  },
+  {
+    "created_at": "2022-02-25 15:14:47",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-7w2udYzSlrB9",
+    "patient": "pat-4FjyZE4A3gXW"
+  },
+  {
+    "created_at": "2022-02-25 16:14:43",
+    "type": "membership.started",
+    "start_date": "2022-02-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-nzP8fzVgwBdS",
+    "patient": "pat-syjOYn49U3h3"
+  },
+  {
+    "created_at": "2022-02-25 22:09:33",
+    "type": "membership.ended",
+    "end_date": "2022-02-25",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-FcnUE2uTu1hD",
+    "patient": "pat-ye31lA8D6R6Z"
+  },
+  {
+    "created_at": "2022-02-27 21:53:41",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-SOZFn64iuWyh",
+    "patient": "pat-V9ljSxPXoE66"
+  },
+  {
+    "created_at": "2022-02-27 22:08:55",
+    "type": "membership.ended",
+    "end_date": "2022-02-27",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-kZVUvPGXzZ4q",
+    "patient": "pat-aBHTBwpldAA1"
+  },
+  {
+    "created_at": "2022-02-28 13:40:19",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0Vhy0NvZD6Vs",
+    "patient": "pat-oiYKc0oIJq5k"
+  },
+  {
+    "created_at": "2022-02-28 14:35:46",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-kygBmvUzJQP3",
+    "patient": "pat-tErcnbhi6DNj"
+  },
+  {
+    "created_at": "2022-02-28 14:36:34",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-kygBmvUzJQP3",
+    "patient": "pat-n93yP390crRd"
+  },
+  {
+    "created_at": "2022-02-28 14:37:41",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-kygBmvUzJQP3",
+    "patient": "pat-fiYtXBv9OHbg"
+  },
+  {
+    "created_at": "2022-02-28 14:38:33",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-kygBmvUzJQP3",
+    "patient": "pat-qqhoQSk0zO5h"
+  },
+  {
+    "created_at": "2022-02-28 14:40:04",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-pE1xmLXmK3Ac",
+    "patient": "pat-FdPIFkYEMgCx"
+  },
+  {
+    "created_at": "2022-02-28 14:41:47",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-pE1xmLXmK3Ac",
+    "patient": "pat-GQazxhwiz1rP"
+  },
+  {
+    "created_at": "2022-02-28 14:42:54",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-tmoXHl9bvx6I",
+    "patient": "pat-Ra6fRrAfJlxk"
+  },
+  {
+    "created_at": "2022-02-28 14:44:16",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-tmoXHl9bvx6I",
+    "patient": "pat-YiGG8tb06Suy"
+  },
+  {
+    "created_at": "2022-02-28 14:44:53",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-tmoXHl9bvx6I",
+    "patient": "pat-2MLwyMkKPxIM"
+  },
+  {
+    "created_at": "2022-02-28 14:46:25",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-vsKr4OMuFMFM",
+    "patient": "pat-UASamWDtbu1s"
+  },
+  {
+    "created_at": "2022-02-28 14:47:11",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-vsKr4OMuFMFM",
+    "patient": "pat-S751iEm4owGZ"
+  },
+  {
+    "created_at": "2022-02-28 14:47:40",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-vsKr4OMuFMFM",
+    "patient": "pat-ITUS5gIG386I"
+  },
+  {
+    "created_at": "2022-02-28 14:48:27",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-1XaQkwmAG2wK",
+    "patient": "pat-64IkgREx5sbf"
+  },
+  {
+    "created_at": "2022-02-28 14:49:06",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-HvRqhVUx0VZU",
+    "patient": "pat-UZCEV4b0EKkD"
+  },
+  {
+    "created_at": "2022-02-28 14:49:56",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-HvRqhVUx0VZU",
+    "patient": "pat-POcvizqIUQdT"
+  },
+  {
+    "created_at": "2022-02-28 14:52:31",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-SJ8IIHE6HNKA",
+    "patient": "pat-9nujiEekaUxK"
+  },
+  {
+    "created_at": "2022-02-28 14:52:32",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-SJ8IIHE6HNKA",
+    "patient": "pat-jw9CKbgsQ94Z"
+  },
+  {
+    "created_at": "2022-02-28 14:55:14",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-6T2Ou8xI9JJr",
+    "patient": "pat-Y28tv2XmU4ZL"
+  },
+  {
+    "created_at": "2022-02-28 15:01:42",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-2Q7awhsDY9AJ",
+    "patient": "pat-7y6AngpfT2Qg"
+  },
+  {
+    "created_at": "2022-02-28 17:26:26",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-O0TADujWIVxB"
+  },
+  {
+    "created_at": "2022-02-28 17:27:13",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-q3fSJYdgCPdP"
+  },
+  {
+    "created_at": "2022-02-28 18:18:13",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-XxULvhvetOJt",
+    "patient": "pat-LTBdbNdIt6lA"
+  },
+  {
+    "created_at": "2022-02-28 19:11:12",
+    "type": "membership.started",
+    "start_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ybPZnSZlonoD",
+    "patient": "pat-buUNmdlvBOfu"
+  },
+  {
+    "created_at": "2022-02-28 19:22:55",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-Ps62GfrnuE6b",
+    "patient": "pat-kbtBX21EqjN9"
+  },
+  {
+    "created_at": "2022-02-28 19:24:08",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-LJNsDeY5rBhu",
+    "patient": "pat-UMgwKkABy6Ot"
+  },
+  {
+    "created_at": "2022-02-28 19:57:31",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-gp8xraPWQxwg",
+    "patient": "pat-Wi3xAfXebrWR"
+  },
+  {
+    "created_at": "2022-02-28 19:58:14",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-xtPwB24IWj0d",
+    "patient": "pat-L4cVL1Ytn2uE"
+  },
+  {
+    "created_at": "2022-02-28 20:20:56",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sVIICnGOnJck",
+    "patient": "pat-SKF8uBOEakc4"
+  },
+  {
+    "created_at": "2022-02-28 20:21:01",
+    "type": "membership.ended",
+    "end_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Tm7vhauNCe90",
+    "patient": "pat-fs4DZIuzWNCe"
+  },
+  {
+    "created_at": "2022-02-28 20:21:01",
+    "type": "membership.ended",
+    "end_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Tm7vhauNCe90",
+    "patient": "pat-Xkx3XEeFf2Oj"
+  },
+  {
+    "created_at": "2022-02-28 20:21:01",
+    "type": "membership.ended",
+    "end_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-Tm7vhauNCe90",
+    "patient": "pat-dKN93f5QTEaT"
+  },
+  {
+    "created_at": "2022-02-28 20:21:02",
+    "type": "membership.ended",
+    "end_date": "2022-02-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-Tm7vhauNCe90",
+    "patient": "pat-OmxXuPdvErCg"
+  },
+  {
+    "created_at": "2022-02-28 20:21:33",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sVIICnGOnJck",
+    "patient": "pat-CIyr9tV5qAKr"
+  },
+  {
+    "created_at": "2022-02-28 20:22:02",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sVIICnGOnJck",
+    "patient": "pat-rJ8uXOdsY6zF"
+  },
+  {
+    "created_at": "2022-02-28 22:51:45",
+    "type": "membership.ended",
+    "end_date": "2022-02-28",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-ZDvev1hhl3ob",
+    "patient": "pat-CV21zbiKZ4dB"
+  },
+  {
+    "created_at": "2022-03-01 14:36:04",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-Tsyuxo8fViWO"
+  },
+  {
+    "created_at": "2022-03-01 15:44:54",
+    "type": "membership.ended",
+    "end_date": "2022-03-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-p6TK16TKaQt3",
+    "patient": "pat-PeeZD9BObPBL"
+  },
+  {
+    "created_at": "2022-03-01 16:14:35",
+    "type": "membership.ended",
+    "end_date": "2022-03-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-lSwpWZLy258D",
+    "patient": "pat-OzCP89KcbvP0"
+  },
+  {
+    "created_at": "2022-03-01 17:49:23",
+    "type": "membership.ended",
+    "end_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-42Kse35B9ArW",
+    "patient": "pat-7shq7AAjoo2C"
+  },
+  {
+    "created_at": "2022-03-01 17:49:23",
+    "type": "membership.ended",
+    "end_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-42Kse35B9ArW",
+    "patient": "pat-2A2NFcUhldoc"
+  },
+  {
+    "created_at": "2022-03-01 21:05:06",
+    "type": "membership.started",
+    "start_date": "2022-03-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-fB0XrnVi6gJH",
+    "patient": "pat-w10cpCYZQMXp"
+  },
+  {
+    "created_at": "2022-03-01 21:37:13",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-dFi7PsZIfgju",
+    "patient": "pat-Xi3m5TJQasT9"
+  },
+  {
+    "created_at": "2022-03-02 18:05:00",
+    "type": "membership.price_changed",
+    "from_price": 10000,
+    "to_price": 0,
+    "membership": "mem-dFi7PsZIfgju"
+  },
+  {
+    "created_at": "2022-03-02 19:01:43",
+    "type": "membership.started",
+    "start_date": "2022-03-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AOHZGr647QJw",
+    "patient": "pat-dhXeqlRbNUUS"
+  },
+  {
+    "created_at": "2022-03-02 19:18:48",
+    "type": "membership.ended",
+    "end_date": "2022-03-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-PSEDHpxN1Ho2",
+    "patient": "pat-bEmhryA2Idok"
+  },
+  {
+    "created_at": "2022-03-02 21:47:59",
+    "type": "membership.ended",
+    "end_date": "2022-03-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-DfGRW64Fy73O",
+    "patient": "pat-CCcNIeGAc9nt"
+  },
+  {
+    "created_at": "2022-03-02 21:47:59",
+    "type": "membership.ended",
+    "end_date": "2022-03-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-DfGRW64Fy73O",
+    "patient": "pat-gUdSp2uJoZNP"
+  },
+  {
+    "created_at": "2022-03-02 21:47:59",
+    "type": "membership.ended",
+    "end_date": "2022-03-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-DfGRW64Fy73O",
+    "patient": "pat-Rq5LNjXj6fr4"
+  },
+  {
+    "created_at": "2022-03-02 21:47:59",
+    "type": "membership.ended",
+    "end_date": "2022-03-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-DfGRW64Fy73O",
+    "patient": "pat-ADwPo1liGyIk"
+  },
+  {
+    "created_at": "2022-03-03 06:17:40",
+    "type": "membership.ended",
+    "end_date": "2022-03-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-BM3ls5o0Pjiv",
+    "patient": "pat-y1hLaEO2msqs"
+  },
+  {
+    "created_at": "2022-03-03 14:17:52",
+    "type": "membership.started",
+    "start_date": "2022-03-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-zS9c9tzr3GET",
+    "patient": "pat-U6wvfQsknkPU"
+  },
+  {
+    "created_at": "2022-03-03 19:00:34",
+    "type": "membership.started",
+    "start_date": "2022-03-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-shDnyOrHszCW",
+    "patient": "pat-xhtdTmcEDwUC"
+  },
+  {
+    "created_at": "2022-03-04 16:08:35",
+    "type": "membership.ended",
+    "end_date": "2022-03-04",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-WeUNpPgh9gQL",
+    "patient": "pat-wtQv4YhI2bXj"
+  },
+  {
+    "created_at": "2022-03-04 16:44:03",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YqnJ2GTgSmq8",
+    "patient": "pat-6isrtMtuqxeh"
+  },
+  {
+    "created_at": "2022-03-04 16:44:03",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YqnJ2GTgSmq8",
+    "patient": "pat-ThOzKqhLaqLb"
+  },
+  {
+    "created_at": "2022-03-04 16:44:03",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-YqnJ2GTgSmq8",
+    "patient": "pat-5SNIk919U0Ft"
+  },
+  {
+    "created_at": "2022-03-05 21:02:44",
+    "type": "membership.started",
+    "start_date": "2022-03-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Zdu4Zc2prHDd",
+    "patient": "pat-YYBLJ3JUpjZ6"
+  },
+  {
+    "created_at": "2022-03-05 21:02:45",
+    "type": "membership.started",
+    "start_date": "2022-03-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Zdu4Zc2prHDd",
+    "patient": "pat-5vVGUpG6zd1P"
+  },
+  {
+    "created_at": "2022-03-05 21:02:45",
+    "type": "membership.started",
+    "start_date": "2022-03-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-Zdu4Zc2prHDd",
+    "patient": "pat-YibJbhVYORQw"
+  },
+  {
+    "created_at": "2022-03-05 21:02:45",
+    "type": "membership.started",
+    "start_date": "2022-03-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Zdu4Zc2prHDd",
+    "patient": "pat-vBsJ7Lrm7S8h"
+  },
+  {
+    "created_at": "2022-03-05 21:31:35",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Z3pndas5hDmM",
+    "patient": "pat-cuDLQJK0t9y1"
+  },
+  {
+    "created_at": "2022-03-07 15:15:12",
+    "type": "membership.ended",
+    "end_date": "2022-03-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-2iD7vFE0NQRo",
+    "patient": "pat-aZ6A0E49vbqi"
+  },
+  {
+    "created_at": "2022-03-07 15:27:47",
+    "type": "membership.ended",
+    "end_date": "2022-03-07",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-GjelrnoDDFFV",
+    "patient": "pat-XJIuaRutCfpZ"
+  },
+  {
+    "created_at": "2022-03-07 15:58:33",
+    "type": "membership.ended",
+    "end_date": "2022-03-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-barv1s42HRbC",
+    "patient": "pat-4P29OaW1Iw14"
+  },
+  {
+    "created_at": "2022-03-07 15:58:33",
+    "type": "membership.ended",
+    "end_date": "2022-03-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-barv1s42HRbC",
+    "patient": "pat-l7Sp2qwhf4h3"
+  },
+  {
+    "created_at": "2022-03-08 16:43:23",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-my7CYQzRiQyt"
+  },
+  {
+    "created_at": "2022-03-08 16:44:11",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-IwZlFwBSMmfk"
+  },
+  {
+    "created_at": "2022-03-08 16:44:47",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-5flWtb7mNfJi"
+  },
+  {
+    "created_at": "2022-03-08 16:45:18",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-auM0TKIsmhrp"
+  },
+  {
+    "created_at": "2022-03-08 16:45:51",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-bgXx2WgFMeFr",
+    "patient": "pat-SP7UVyiNe992"
+  },
+  {
+    "created_at": "2022-03-08 16:59:57",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-YJbrBf7ZuV6Q",
+    "patient": "pat-Gmx16kOOKdbE"
+  },
+  {
+    "created_at": "2022-03-08 19:29:13",
+    "type": "membership.ended",
+    "end_date": "2022-03-08",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-CGWayhmTQyV0",
+    "patient": "pat-wOMsttSRUP2s"
+  },
+  {
+    "created_at": "2022-03-09 14:10:41",
+    "type": "membership.started",
+    "start_date": "2022-03-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ubaZj4aH3YyY",
+    "patient": "pat-enLUydY9O8OX"
+  },
+  {
+    "created_at": "2022-03-09 20:32:05",
+    "type": "membership.ended",
+    "end_date": "2022-03-09",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-C7V3ZFTrmkI3",
+    "patient": "pat-6JBZXGKqNE88"
+  },
+  {
+    "created_at": "2022-03-09 22:50:20",
+    "type": "membership.started",
+    "start_date": "2022-03-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-uTsyKotllaXK",
+    "patient": "pat-N5LflvECJa0W"
+  },
+  {
+    "created_at": "2022-03-09 22:50:20",
+    "type": "membership.started",
+    "start_date": "2022-03-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-uTsyKotllaXK",
+    "patient": "pat-8P4yOmkLRsgm"
+  },
+  {
+    "created_at": "2022-03-10 20:50:40",
+    "type": "membership.started",
+    "start_date": "2022-03-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-eWutHKXuTES9",
+    "patient": "pat-9gLuFS72694x"
+  },
+  {
+    "created_at": "2022-03-10 20:50:40",
+    "type": "membership.started",
+    "start_date": "2022-03-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-eWutHKXuTES9",
+    "patient": "pat-4atM2oIvCDqo"
+  },
+  {
+    "created_at": "2022-03-10 20:50:40",
+    "type": "membership.started",
+    "start_date": "2022-03-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-eWutHKXuTES9",
+    "patient": "pat-OhqzNG4pjs3E"
+  },
+  {
+    "created_at": "2022-03-10 20:50:40",
+    "type": "membership.started",
+    "start_date": "2022-03-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-eWutHKXuTES9",
+    "patient": "pat-J7hCWFaOToWH"
+  },
+  {
+    "created_at": "2022-03-11 16:12:14",
+    "type": "membership.ended",
+    "end_date": "2022-03-11",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-e29cl5Zqphcy",
+    "patient": "pat-RmTJzChDJJqC"
+  },
+  {
+    "created_at": "2022-03-11 16:12:32",
+    "type": "membership.ended",
+    "end_date": "2022-03-11",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ToqZtGNgdFNF",
+    "patient": "pat-lbDsgQtOdxwv"
+  },
+  {
+    "created_at": "2022-03-11 19:48:24",
+    "type": "membership.started",
+    "start_date": "2022-03-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-IvbnstdBwltz",
+    "patient": "pat-6xZMfZ4UlqGz"
+  },
+  {
+    "created_at": "2022-03-14 12:05:12",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-H8EwghMdK0W0",
+    "patient": "pat-j4bxDXy5AdkM"
+  },
+  {
+    "created_at": "2022-03-14 20:29:43",
+    "type": "membership.ended",
+    "end_date": "2022-03-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-SGXQsjXUDAiv",
+    "patient": "pat-MpRfm6S5OWAe"
+  },
+  {
+    "created_at": "2022-03-15 15:34:47",
+    "type": "membership.ended",
+    "end_date": "2022-03-15",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-mqCYdl39C4wF",
+    "patient": "pat-yiymia5fsKWI"
+  },
+  {
+    "created_at": "2022-03-15 15:34:47",
+    "type": "membership.ended",
+    "end_date": "2022-03-15",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 6000,
+    "membership": "mem-mqCYdl39C4wF",
+    "patient": "pat-TdYU0CQvoPUl"
+  },
+  {
+    "created_at": "2022-03-15 15:34:47",
+    "type": "membership.ended",
+    "end_date": "2022-03-15",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 6000,
+    "membership": "mem-mqCYdl39C4wF",
+    "patient": "pat-U1frhJQd21dc"
+  },
+  {
+    "created_at": "2022-03-15 15:54:50",
+    "type": "membership.started",
+    "start_date": "2022-03-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-OixVCP2noB2B",
+    "patient": "pat-fCgMM7CN9cTX"
+  },
+  {
+    "created_at": "2022-03-15 15:58:19",
+    "type": "membership.started",
+    "start_date": "2022-03-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-tOnpBrgfDNKj",
+    "patient": "pat-hrpgwnccmCcy"
+  },
+  {
+    "created_at": "2022-03-15 16:08:21",
+    "type": "membership.ended",
+    "end_date": "2022-03-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-mA9JZgzhsq4X",
+    "patient": "pat-O9dx02fHBSnt"
+  },
+  {
+    "created_at": "2022-03-15 16:45:25",
+    "type": "membership.started",
+    "start_date": "2022-03-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Tyj5xnsS5MLo",
+    "patient": "pat-MhddsM0Wzjwe"
+  },
+  {
+    "created_at": "2022-03-16 13:16:13",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-nTxzh8iiAAUW",
+    "patient": "pat-89jV1fQpEUKy"
+  },
+  {
+    "created_at": "2022-03-16 13:17:46",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-vCS3mL3S4Qu4",
+    "patient": "pat-7l3aE88IatEP"
+  },
+  {
+    "created_at": "2022-03-16 13:18:52",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-TIq29iToVaf6",
+    "patient": "pat-txTjP3zoE4PJ"
+  },
+  {
+    "created_at": "2022-03-16 13:19:55",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-BmAhjyy2cldl",
+    "patient": "pat-MnBRxMKI24p2"
+  },
+  {
+    "created_at": "2022-03-17 13:08:44",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-KNWa5n7mSu6L",
+    "patient": "pat-aVz9M2oR0Wez"
+  },
+  {
+    "created_at": "2022-03-17 14:43:19",
+    "type": "membership.started",
+    "start_date": "2022-03-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Z3c1KXpsAGmp",
+    "patient": "pat-HNQiJqkg1ewF"
+  },
+  {
+    "created_at": "2022-03-17 15:53:31",
+    "type": "membership.started",
+    "start_date": "2022-03-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-006Dy08ciqa4",
+    "patient": "pat-YyQsLsDH9i7X"
+  },
+  {
+    "created_at": "2022-03-18 11:53:40",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YIaU18CSmWha",
+    "patient": "pat-Jcpb4zh0jgAB"
+  },
+  {
+    "created_at": "2022-03-18 15:18:51",
+    "type": "membership.started",
+    "start_date": "2022-03-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-su8aPZKfGzJZ",
+    "patient": "pat-EAM1FPIwdEGQ"
+  },
+  {
+    "created_at": "2022-03-18 18:43:43",
+    "type": "membership.started",
+    "start_date": "2022-03-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YMSIVwNsyzeT",
+    "patient": "pat-htCbDEQESk7P"
+  },
+  {
+    "created_at": "2022-03-19 13:46:05",
+    "type": "membership.started",
+    "start_date": "2022-03-19",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-X0R4Zw7CVDWm",
+    "patient": "pat-bL3m3uqDbngc"
+  },
+  {
+    "created_at": "2022-03-19 20:44:28",
+    "type": "membership.started",
+    "start_date": "2022-03-19",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0hyslpN4ZV6V",
+    "patient": "pat-taZjHkg1LX2m"
+  },
+  {
+    "created_at": "2022-03-21 14:48:48",
+    "type": "membership.ended",
+    "end_date": "2022-03-21",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-rkSxfSnrURIK",
+    "patient": "pat-HSUm4Ap0CJXI"
+  },
+  {
+    "created_at": "2022-03-21 16:27:32",
+    "type": "membership.price_changed",
+    "from_price": 0,
+    "to_price": 9900,
+    "membership": "mem-kRsl3UzFG6GL"
+  },
+  {
+    "created_at": "2022-03-21 17:50:15",
+    "type": "membership.started",
+    "start_date": "2022-03-21",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3krL3N2yVsJc",
+    "patient": "pat-8A3xAjwSaeqz"
+  },
+  {
+    "created_at": "2022-03-22 12:27:30",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-waQhBknuk63r",
+    "patient": "pat-Ft4PCcyECF0K"
+  },
+  {
+    "created_at": "2022-03-22 12:27:32",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-waQhBknuk63r",
+    "patient": "pat-x0d3UvstQ8x4"
+  },
+  {
+    "created_at": "2022-03-22 12:28:11",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-waQhBknuk63r",
+    "patient": "pat-uC7aUCCSVNoy"
+  },
+  {
+    "created_at": "2022-03-22 12:28:11",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-waQhBknuk63r",
+    "patient": "pat-YjHNIYLaQ6A6"
+  },
+  {
+    "created_at": "2022-03-22 14:53:23",
+    "type": "membership.started",
+    "start_date": "2022-03-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-bHySHE6fu0lp",
+    "patient": "pat-D4g3HKUyg8TV"
+  },
+  {
+    "created_at": "2022-03-22 16:13:27",
+    "type": "membership.started",
+    "start_date": "2022-03-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-NouoGL6JIsBG",
+    "patient": "pat-7nTu0Awaax8c"
+  },
+  {
+    "created_at": "2022-03-22 16:35:15",
+    "type": "membership.ended",
+    "end_date": "2022-03-22",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cOVJeDEyw2Gm",
+    "patient": "pat-5ARPp3kgSXKE"
+  },
+  {
+    "created_at": "2022-03-22 16:40:14",
+    "type": "membership.ended",
+    "end_date": "2022-03-22",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-oYddcC6qqiw7",
+    "patient": "pat-kkrMmccFkjlF"
+  },
+  {
+    "created_at": "2022-03-22 16:40:14",
+    "type": "membership.ended",
+    "end_date": "2022-03-22",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-oYddcC6qqiw7",
+    "patient": "pat-OIM5KfjItkp0"
+  },
+  {
+    "created_at": "2022-03-22 16:40:14",
+    "type": "membership.ended",
+    "end_date": "2022-03-22",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-oYddcC6qqiw7",
+    "patient": "pat-hMPcMAUepMgO"
+  },
+  {
+    "created_at": "2022-03-22 17:02:41",
+    "type": "membership.ended",
+    "end_date": "2022-03-22",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-zHdZkdSS9t1J",
+    "patient": "pat-aFmHKinCGnU2"
+  },
+  {
+    "created_at": "2022-03-22 17:15:29",
+    "type": "membership.ended",
+    "end_date": "2022-03-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-J1qL8ZWWGEf7",
+    "patient": "pat-BNeKpezS3lzC"
+  },
+  {
+    "created_at": "2022-03-23 14:55:39",
+    "type": "membership.price_changed",
+    "from_price": 10000,
+    "to_price": 0,
+    "membership": "mem-H8EwghMdK0W0"
+  },
+  {
+    "created_at": "2022-03-23 15:09:16",
+    "type": "membership.ended",
+    "end_date": "2022-03-23",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-TneYfGpuvHKi",
+    "patient": "pat-CUkfZ7XwX1Rb"
+  },
+  {
+    "created_at": "2022-03-23 16:51:20",
+    "type": "membership.started",
+    "start_date": "2022-03-23",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-1ASNaTAu90fJ",
+    "patient": "pat-zIHDvAVn3ZKN"
+  },
+  {
+    "created_at": "2022-03-23 18:16:55",
+    "type": "membership.started",
+    "start_date": "2022-03-23",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-tB5co4yse2Wt",
+    "patient": "pat-eUfvIK4jVGkX"
+  },
+  {
+    "created_at": "2022-03-24 13:06:36",
+    "type": "membership.ended",
+    "end_date": "2022-03-24",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-L7gpeUGRdxLl",
+    "patient": "pat-ODOm9NJvI3Ks"
+  },
+  {
+    "created_at": "2022-03-24 13:06:36",
+    "type": "membership.ended",
+    "end_date": "2022-03-24",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-L7gpeUGRdxLl",
+    "patient": "pat-lN7PhxIG2i3L"
+  },
+  {
+    "created_at": "2022-03-24 21:18:42",
+    "type": "membership.ended",
+    "end_date": "2022-03-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-rsBBPjtv4Av9",
+    "patient": "pat-xgcbQkqrM25B"
+  },
+  {
+    "created_at": "2022-03-25 14:22:53",
+    "type": "membership.ended",
+    "end_date": "2022-03-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 12500,
+    "membership": "mem-5VzFh2BcSIms",
+    "patient": "pat-nFQqK2YfRccj"
+  },
+  {
+    "created_at": "2022-03-25 18:45:50",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-RKL2Yf6qPM6Z",
+    "patient": "pat-IDK7GrE4fJoA"
+  },
+  {
+    "created_at": "2022-03-25 18:45:50",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-RKL2Yf6qPM6Z",
+    "patient": "pat-Yse3Ql9r0D9r"
+  },
+  {
+    "created_at": "2022-03-25 18:45:50",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-RKL2Yf6qPM6Z",
+    "patient": "pat-agiIYeEHYDUo"
+  },
+  {
+    "created_at": "2022-03-25 19:51:16",
+    "type": "membership.started",
+    "start_date": "2022-03-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-R98aN8rxiyAj",
+    "patient": "pat-M8voUrxTxPlm"
+  },
+  {
+    "created_at": "2022-03-25 19:51:16",
+    "type": "membership.started",
+    "start_date": "2022-03-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-R98aN8rxiyAj",
+    "patient": "pat-YnQx9RhBXhZu"
+  },
+  {
+    "created_at": "2022-03-28 13:48:45",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-zYSedqIHn9Lq",
+    "patient": "pat-2lGkJebxlXFM"
+  },
+  {
+    "created_at": "2022-03-28 13:48:48",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-zYSedqIHn9Lq",
+    "patient": "pat-hudlFiWFo6L8"
+  },
+  {
+    "created_at": "2022-03-28 14:30:54",
+    "type": "membership.ended",
+    "end_date": "2022-03-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-pEXFbpI3bHhB",
+    "patient": "pat-Oq34tpGm4zaF"
+  },
+  {
+    "created_at": "2022-03-28 14:38:47",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Y8xJt35vJ6MK",
+    "patient": "pat-sMPf9Md0tvWQ"
+  },
+  {
+    "created_at": "2022-03-28 14:38:47",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Jx9BDsdWcrMX",
+    "patient": "pat-eXR13A68IdUC"
+  },
+  {
+    "created_at": "2022-03-28 14:38:48",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sWjpWGf4dJgx",
+    "patient": "pat-ZpbixGrJFwjh"
+  },
+  {
+    "created_at": "2022-03-28 14:39:09",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-rLKgxhiRgPz3",
+    "patient": "pat-2nCQHWTvJjLy"
+  },
+  {
+    "created_at": "2022-03-28 14:40:00",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-xVpexImNfsTK",
+    "patient": "pat-jPqPHVQhhIIL"
+  },
+  {
+    "created_at": "2022-03-28 14:40:55",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-xVpexImNfsTK",
+    "patient": "pat-lxYt5fsXleba"
+  },
+  {
+    "created_at": "2022-03-28 15:30:43",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-TqhfPwtwCK4G",
+    "patient": "pat-3liLrtPBXHBg"
+  },
+  {
+    "created_at": "2022-03-28 15:32:17",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Atwsf2v2Jz79",
+    "patient": "pat-UVty8ZExeFts"
+  },
+  {
+    "created_at": "2022-03-28 15:33:11",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Atwsf2v2Jz79",
+    "patient": "pat-vLxq9FWkBkRc"
+  },
+  {
+    "created_at": "2022-03-28 15:33:59",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-8uyX0qosE9FB",
+    "patient": "pat-Ouw4MBO7EmW9"
+  },
+  {
+    "created_at": "2022-03-28 15:34:42",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-M4IUpbV8NSrs",
+    "patient": "pat-Kefd5BJ6dS1Y"
+  },
+  {
+    "created_at": "2022-03-28 15:35:51",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-6WZzhBHDbI3T",
+    "patient": "pat-MYMn2VbVpLP0"
+  },
+  {
+    "created_at": "2022-03-28 15:36:32",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-6WZzhBHDbI3T",
+    "patient": "pat-ELKIeE6eqrAP"
+  },
+  {
+    "created_at": "2022-03-28 15:37:26",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cO2eoL3D50rf",
+    "patient": "pat-ogHzqmz8S7Mv"
+  },
+  {
+    "created_at": "2022-03-28 15:38:15",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-XFcfdNGy9n8d",
+    "patient": "pat-nAZKbaqnYpZy"
+  },
+  {
+    "created_at": "2022-03-28 20:14:16",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ywbDkJgniroZ",
+    "patient": "pat-oWQzuUg79qGb"
+  },
+  {
+    "created_at": "2022-03-29 13:47:45",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-iJT1h1p3li3o",
+    "patient": "pat-7pPRQdgr8g3z"
+  },
+  {
+    "created_at": "2022-03-29 14:30:41",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-CfdGRxHUBGZI",
+    "patient": "pat-YdmK08surcLz"
+  },
+  {
+    "created_at": "2022-03-29 14:37:47",
+    "type": "membership.ended",
+    "end_date": "2022-03-29",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AemTlsHBabqM",
+    "patient": "pat-SPF7k1vwPYdh"
+  },
+  {
+    "created_at": "2022-03-29 16:06:40",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-BZ7h03IzEuOP",
+    "patient": "pat-GRcIlkqeGfqI"
+  },
+  {
+    "created_at": "2022-03-29 16:09:16",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-VnhCk4Niigh3",
+    "patient": "pat-jVOAsupe0eOC"
+  },
+  {
+    "created_at": "2022-03-29 16:46:14",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-1XDDSyS06zs4",
+    "patient": "pat-xNSvqIJBWZP9"
+  },
+  {
+    "created_at": "2022-03-29 16:47:09",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-1XDDSyS06zs4",
+    "patient": "pat-dC8KehMXZ0vW"
+  },
+  {
+    "created_at": "2022-03-29 16:48:09",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-1XDDSyS06zs4",
+    "patient": "pat-XyoWe7jk0KS3"
+  },
+  {
+    "created_at": "2022-03-29 17:54:00",
+    "type": "membership.ended",
+    "end_date": "2022-03-29",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-qaBdCLv90TTg",
+    "patient": "pat-3L9W5MzpUJDU"
+  },
+  {
+    "created_at": "2022-03-29 19:21:22",
+    "type": "membership.started",
+    "start_date": "2022-04-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-rtx8V8S4xcUB",
+    "patient": "pat-pFObzIbD2icS"
+  },
+  {
+    "created_at": "2022-03-29 20:08:08",
+    "type": "membership.ended",
+    "end_date": "2022-03-29",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sHqKJCbuBzzt",
+    "patient": "pat-GmD21AJsfwJR"
+  },
+  {
+    "created_at": "2022-03-29 20:25:31",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-LzaBUipmMD3H",
+    "patient": "pat-avxuFCXAZ1YO"
+  },
+  {
+    "created_at": "2022-03-29 20:26:15",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-gFbKVfLgmHc2",
+    "patient": "pat-Q5d73X8gNzEH"
+  },
+  {
+    "created_at": "2022-03-29 20:27:47",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-jPcv73idqDkU",
+    "patient": "pat-BAG6pIWSB2yf"
+  },
+  {
+    "created_at": "2022-03-29 20:28:04",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-8CDMPXejTyZR",
+    "patient": "pat-6iqoQbOTYyYE"
+  },
+  {
+    "created_at": "2022-03-29 20:28:45",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ESWRP7kDYxSs",
+    "patient": "pat-UyJNKcWogfVb"
+  },
+  {
+    "created_at": "2022-03-29 20:29:21",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-kRxFdont84t6",
+    "patient": "pat-GmY516W6HjoX"
+  },
+  {
+    "created_at": "2022-03-29 20:30:02",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-p6W5D5tnH3ew",
+    "patient": "pat-7pnT60piNK9F"
+  },
+  {
+    "created_at": "2022-03-29 20:30:02",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-p6W5D5tnH3ew",
+    "patient": "pat-uQqHqyCkoiFl"
+  },
+  {
+    "created_at": "2022-03-30 15:26:25",
+    "type": "membership.started",
+    "start_date": "2022-04-17",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ZGMeIO8NCSAF",
+    "patient": "pat-Vw6vfyYP9Gu9"
+  },
+  {
+    "created_at": "2022-03-30 19:48:58",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-6WZzhBHDbI3T",
+    "patient": "pat-wdPIpjubhuj2"
+  },
+  {
+    "created_at": "2022-03-30 19:49:35",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-6WZzhBHDbI3T",
+    "patient": "pat-l3T44g2Y7YSF"
+  },
+  {
+    "created_at": "2022-03-31 14:57:25",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-yQcuptJ7GRVq",
+    "patient": "pat-pE995USx8HEJ"
+  },
+  {
+    "created_at": "2022-03-31 14:58:04",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-3VUM04pqbKPA",
+    "patient": "pat-wE5eG7X8D4ro"
+  },
+  {
+    "created_at": "2022-03-31 14:58:42",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-3VUM04pqbKPA",
+    "patient": "pat-Msx7jaqAYg67"
+  },
+  {
+    "created_at": "2022-03-31 14:59:14",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-QSNUTBHzpBCB",
+    "patient": "pat-0J3a4N8jX90q"
+  },
+  {
+    "created_at": "2022-03-31 15:16:29",
+    "type": "membership.started",
+    "start_date": "2022-04-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-xcxVQSDilp1A",
+    "patient": "pat-GmZwGMYxhL1F"
+  },
+  {
+    "created_at": "2022-03-31 15:16:30",
+    "type": "membership.started",
+    "start_date": "2022-04-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-xcxVQSDilp1A",
+    "patient": "pat-0Ol6bR1ckMjZ"
+  },
+  {
+    "created_at": "2022-03-31 15:16:30",
+    "type": "membership.started",
+    "start_date": "2022-04-24",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-xcxVQSDilp1A",
+    "patient": "pat-nIw2jEK8HfD8"
+  },
+  {
+    "created_at": "2022-03-31 18:54:17",
+    "type": "membership.ended",
+    "end_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0em6JkLSU9z3",
+    "patient": "pat-7C1WmWoCAESq"
+  },
+  {
+    "created_at": "2022-03-31 19:33:19",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-vtBHvDn2fuHr",
+    "patient": "pat-6Xz4TxCJNVx0"
+  },
+  {
+    "created_at": "2022-03-31 19:33:51",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-vtBHvDn2fuHr",
+    "patient": "pat-wbCSXU2dWixq"
+  },
+  {
+    "created_at": "2022-03-31 19:34:27",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-vtBHvDn2fuHr",
+    "patient": "pat-zYfxdAvE5mfW"
+  },
+  {
+    "created_at": "2022-03-31 19:35:04",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-2j8W047puDjA",
+    "patient": "pat-HH8jdJmSWkpe"
+  },
+  {
+    "created_at": "2022-03-31 19:35:34",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-fFUNLtWVcVzd",
+    "patient": "pat-4A1JxJ7dZ081"
+  },
+  {
+    "created_at": "2022-03-31 21:09:12",
+    "type": "membership.started",
+    "start_date": "2022-03-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Ih9JCFL4l4LC",
+    "patient": "pat-dLvShj8DQCIO"
+  },
+  {
+    "created_at": "2022-04-01 16:47:47",
+    "type": "membership.ended",
+    "end_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-ETFYv4R9Az7D",
+    "patient": "pat-s7bq4p4UfMsd"
+  },
+  {
+    "created_at": "2022-04-01 18:29:21",
+    "type": "membership.ended",
+    "end_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cO2eoL3D50rf",
+    "patient": "pat-ogHzqmz8S7Mv"
+  },
+  {
+    "created_at": "2022-04-01 19:12:56",
+    "type": "membership.ended",
+    "end_date": "2022-04-01",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-ZDYmmyP4QUPh",
+    "patient": "pat-CjpVv5kNSNf4"
+  },
+  {
+    "created_at": "2022-04-01 20:09:42",
+    "type": "membership.ended",
+    "end_date": "2022-04-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-N1uV8Zvvx2fX",
+    "patient": "pat-drKfemSgeXY5"
+  },
+  {
+    "created_at": "2022-04-01 23:37:33",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-wSL2gORCeg43",
+    "patient": "pat-2tWZvUh9y0eP"
+  },
+  {
+    "created_at": "2022-04-04 13:43:59",
+    "type": "membership.ended",
+    "end_date": "2022-04-04",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-6T2Ou8xI9JJr",
+    "patient": "pat-Y28tv2XmU4ZL"
+  },
+  {
+    "created_at": "2022-04-04 14:16:16",
+    "type": "membership.ended",
+    "end_date": "2022-04-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-dtvAixekavRI",
+    "patient": "pat-fOc2U1bTDru5"
+  },
+  {
+    "created_at": "2022-04-04 14:22:04",
+    "type": "membership.started",
+    "start_date": "2022-04-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-AiNyUW5yLsCb",
+    "patient": "pat-5bbzYxPHTPnO"
+  },
+  {
+    "created_at": "2022-04-04 14:55:01",
+    "type": "membership.ended",
+    "end_date": "2022-04-04",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-jL3wQ0hgj45q",
+    "patient": "pat-Z0MvReVA5Tgu"
+  },
+  {
+    "created_at": "2022-04-04 23:07:01",
+    "type": "membership.started",
+    "start_date": "2022-04-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Udmm5BlcEfHQ",
+    "patient": "pat-pj4vnXgxsY9I"
+  },
+  {
+    "created_at": "2022-04-05 23:16:03",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-e8mIz2GUkEV0",
+    "patient": "pat-8LeotDROMF9P"
+  },
+  {
+    "created_at": "2022-04-05 23:51:08",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-TVQnKk8fGUwk",
+    "patient": "pat-6dOfZ6cBJoW8"
+  },
+  {
+    "created_at": "2022-04-05 23:53:12",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-czG1rNvHbctv",
+    "patient": "pat-qEUKXMsGu4oS"
+  },
+  {
+    "created_at": "2022-04-05 23:53:12",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-czG1rNvHbctv",
+    "patient": "pat-6kH7ZKDRAWCI"
+  },
+  {
+    "created_at": "2022-04-05 23:53:12",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-czG1rNvHbctv",
+    "patient": "pat-l4U2GuIHmD4I"
+  },
+  {
+    "created_at": "2022-04-05 23:53:12",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-czG1rNvHbctv",
+    "patient": "pat-MluNdkfiXgqj"
+  },
+  {
+    "created_at": "2022-04-05 23:53:13",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-BGdfQwYh9RoK",
+    "patient": "pat-DD6tW3wrQwjX"
+  },
+  {
+    "created_at": "2022-04-05 23:53:14",
+    "type": "membership.ended",
+    "end_date": "2022-04-05",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-BGdfQwYh9RoK",
+    "patient": "pat-yXswb0e3jC9m"
+  },
+  {
+    "created_at": "2022-04-06 00:01:42",
+    "type": "membership.started",
+    "start_date": "2022-04-05",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-LBJuDm3KaMkD",
+    "patient": "pat-ZQf8VREHm7jq"
+  },
+  {
+    "created_at": "2022-04-06 14:22:40",
+    "type": "membership.ended",
+    "end_date": "2022-04-06",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-0HLN7eucr00b",
+    "patient": "pat-crG160qKzZq6"
+  },
+  {
+    "created_at": "2022-04-06 14:22:41",
+    "type": "membership.ended",
+    "end_date": "2022-04-06",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-0HLN7eucr00b",
+    "patient": "pat-hBEEFo7uiSRx"
+  },
+  {
+    "created_at": "2022-04-06 14:29:33",
+    "type": "membership.started",
+    "start_date": "2022-04-01",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-mVfSjON7kZr7",
+    "patient": "pat-1yeqSVeizrQo"
+  },
+  {
+    "created_at": "2022-04-06 15:29:42",
+    "type": "membership.ended",
+    "end_date": "2022-04-06",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-BGEwCB2HgNdg",
+    "patient": "pat-b7lEZcRCvKzb"
+  },
+  {
+    "created_at": "2022-04-06 18:28:30",
+    "type": "membership.ended",
+    "end_date": "2022-04-06",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-sWjpWGf4dJgx",
+    "patient": "pat-ZpbixGrJFwjh"
+  },
+  {
+    "created_at": "2022-04-06 18:43:31",
+    "type": "membership.ended",
+    "end_date": "2022-04-06",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-VNHX0Eak6f9c",
+    "patient": "pat-VkD5SOu9c7zO"
+  },
+  {
+    "created_at": "2022-04-07 12:34:46",
+    "type": "membership.started",
+    "start_date": "2022-04-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-lV56mhSfSYeO",
+    "patient": "pat-plHe9tl3kTHJ"
+  },
+  {
+    "created_at": "2022-04-07 17:43:53",
+    "type": "membership.started",
+    "start_date": "2022-04-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-cRh2Re13nvCc",
+    "patient": "pat-QAXsc6JELaqz"
+  },
+  {
+    "created_at": "2022-04-07 19:55:43",
+    "type": "membership.ended",
+    "end_date": "2022-04-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-jaRRy29X1b2t",
+    "patient": "pat-eKsBntRIE2uP"
+  },
+  {
+    "created_at": "2022-04-07 20:55:11",
+    "type": "membership.ended",
+    "end_date": "2022-04-07",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-5g2wk9QTj2Xv",
+    "patient": "pat-C0t63oxmOiyq"
+  },
+  {
+    "created_at": "2022-04-08 17:00:16",
+    "type": "membership.started",
+    "start_date": "2022-04-08",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-9aJ9DlfdnjwV",
+    "patient": "pat-jN6qM9dZVK2U"
+  },
+  {
+    "created_at": "2022-04-08 17:27:28",
+    "type": "membership.ended",
+    "end_date": "2022-04-08",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-6VkePQnW1pEY",
+    "patient": "pat-hICUsHQ47Frg"
+  },
+  {
+    "created_at": "2022-04-08 17:56:14",
+    "type": "membership.started",
+    "start_date": "2022-04-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-ubaZj4aH3YyY",
+    "patient": "pat-dBo2ybC2Kbfn"
+  },
+  {
+    "created_at": "2022-04-11 13:35:02",
+    "type": "membership.started",
+    "start_date": "2022-04-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Q530UlUzL4cs",
+    "patient": "pat-amSkaLHtClOu"
+  },
+  {
+    "created_at": "2022-04-11 14:00:53",
+    "type": "membership.ended",
+    "end_date": "2022-04-11",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-BRhJFPpuqNj8",
+    "patient": "pat-7zrHoeHNhJ5F"
+  },
+  {
+    "created_at": "2022-04-11 14:58:09",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-AiHbbM8wopPx"
+  },
+  {
+    "created_at": "2022-04-11 14:58:21",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-midSGtqUhqcU"
+  },
+  {
+    "created_at": "2022-04-11 14:58:23",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-EQ8mdQUToqIh"
+  },
+  {
+    "created_at": "2022-04-11 14:58:34",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-VG6bdznTevGC"
+  },
+  {
+    "created_at": "2022-04-11 18:48:19",
+    "type": "membership.ended",
+    "end_date": "2022-04-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-VffvFMyVrlaL",
+    "patient": "pat-A4z1lYreHB42"
+  },
+  {
+    "created_at": "2022-04-12 17:22:28",
+    "type": "membership.started",
+    "start_date": "2022-04-12",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-3a0xuidVk20T",
+    "patient": "pat-f3NAVXGYOylR"
+  },
+  {
+    "created_at": "2022-04-12 18:34:08",
+    "type": "membership.ended",
+    "end_date": "2022-04-12",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-D8tbXbK8LaK6",
+    "patient": "pat-6T31zEK1Stb2"
+  },
+  {
+    "created_at": "2022-04-13 14:55:52",
+    "type": "membership.started",
+    "start_date": "2022-04-13",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-itrbhJK5V21d",
+    "patient": "pat-qK3vm6YDo28R"
+  },
+  {
+    "created_at": "2022-04-14 15:34:56",
+    "type": "membership.started",
+    "start_date": "2022-04-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-F2fB1phqaMFy",
+    "patient": "pat-1iTXyHF5aB7c"
+  },
+  {
+    "created_at": "2022-04-14 15:34:56",
+    "type": "membership.started",
+    "start_date": "2022-04-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-F2fB1phqaMFy",
+    "patient": "pat-LlPLylRr3EuS"
+  },
+  {
+    "created_at": "2022-04-14 15:34:56",
+    "type": "membership.started",
+    "start_date": "2022-04-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-F2fB1phqaMFy",
+    "patient": "pat-Kwkt7PvBqtbQ"
+  },
+  {
+    "created_at": "2022-04-14 15:34:56",
+    "type": "membership.started",
+    "start_date": "2022-04-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-F2fB1phqaMFy",
+    "patient": "pat-Nzla1etdf6wG"
+  },
+  {
+    "created_at": "2022-04-14 16:55:53",
+    "type": "membership.ended",
+    "end_date": "2022-04-14",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-EY4jzUiEBkiJ",
+    "patient": "pat-IfomXAfMBn31"
+  },
+  {
+    "created_at": "2022-04-14 17:01:23",
+    "type": "membership.ended",
+    "end_date": "2022-04-14",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-DWpbrblRdRK1",
+    "patient": "pat-AnNacYvuHfcR"
+  },
+  {
+    "created_at": "2022-04-14 17:01:23",
+    "type": "membership.ended",
+    "end_date": "2022-04-14",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-DWpbrblRdRK1",
+    "patient": "pat-cMkgMrP7Ujbx"
+  },
+  {
+    "created_at": "2022-04-14 18:54:31",
+    "type": "membership.ended",
+    "end_date": "2022-04-14",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-1bFKMN6Er13a",
+    "patient": "pat-GESwfifF3lHT"
+  },
+  {
+    "created_at": "2022-04-14 18:54:31",
+    "type": "membership.ended",
+    "end_date": "2022-04-14",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-1bFKMN6Er13a",
+    "patient": "pat-Uf74dpGC2cMB"
+  },
+  {
+    "created_at": "2022-04-15 14:43:00",
+    "type": "membership.started",
+    "start_date": "2022-04-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0hFUFu6dhU6M",
+    "patient": "pat-3OX8Ygj9yALT"
+  },
+  {
+    "created_at": "2022-04-15 14:43:00",
+    "type": "membership.started",
+    "start_date": "2022-04-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-0hFUFu6dhU6M",
+    "patient": "pat-mjskFkSCxjJj"
+  },
+  {
+    "created_at": "2022-04-15 14:43:00",
+    "type": "membership.started",
+    "start_date": "2022-04-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0hFUFu6dhU6M",
+    "patient": "pat-kRJqQQs8IJno"
+  },
+  {
+    "created_at": "2022-04-15 14:43:00",
+    "type": "membership.started",
+    "start_date": "2022-04-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0hFUFu6dhU6M",
+    "patient": "pat-ZvIon6MAm7sz"
+  },
+  {
+    "created_at": "2022-04-15 14:43:00",
+    "type": "membership.started",
+    "start_date": "2022-04-15",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-0hFUFu6dhU6M",
+    "patient": "pat-BJnDpP8hOPpT"
+  },
+  {
+    "created_at": "2022-04-16 19:38:37",
+    "type": "membership.started",
+    "start_date": "2022-04-16",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-u4bbJlQkxrTz",
+    "patient": "pat-UvuVl5P7zudJ"
+  },
+  {
+    "created_at": "2022-04-18 15:59:48",
+    "type": "membership.ended",
+    "end_date": "2022-04-18",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vgZpHXEydr4v",
+    "patient": "pat-zIlBGvwPaQz0"
+  },
+  {
+    "created_at": "2022-04-19 15:40:15",
+    "type": "membership.ended",
+    "end_date": "2022-04-19",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-OxQOiNpNIdnx",
+    "patient": "pat-EoZdeehaHsRa"
+  },
+  {
+    "created_at": "2022-04-20 17:32:53",
+    "type": "membership.started",
+    "start_date": "2022-04-26",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-bzALbg9FkCwQ",
+    "patient": "pat-xDrLq3sbeAtX"
+  },
+  {
+    "created_at": "2022-04-20 19:54:26",
+    "type": "membership.started",
+    "start_date": "2022-04-20",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-WWJ3nHeQF9Mi",
+    "patient": "pat-lXGgxfA1cq7E"
+  },
+  {
+    "created_at": "2022-04-21 14:37:30",
+    "type": "membership.started",
+    "start_date": "2022-04-21",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-SgXZGkf9BA3g",
+    "patient": "pat-5TFPcAvi5NIL"
+  },
+  {
+    "created_at": "2022-04-21 17:09:22",
+    "type": "membership.started",
+    "start_date": "2022-04-21",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-JAMwvdTkbhGG",
+    "patient": "pat-S18iy5AsiAvS"
+  },
+  {
+    "created_at": "2022-04-22 15:16:28",
+    "type": "membership.started",
+    "start_date": "2022-04-30",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-fAVsAR4NJ5ze",
+    "patient": "pat-x1g6RyYZkosE"
+  },
+  {
+    "created_at": "2022-04-22 15:16:28",
+    "type": "membership.started",
+    "start_date": "2022-04-30",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-fAVsAR4NJ5ze",
+    "patient": "pat-uVykVjQ167wN"
+  },
+  {
+    "created_at": "2022-04-22 15:16:28",
+    "type": "membership.started",
+    "start_date": "2022-04-30",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-fAVsAR4NJ5ze",
+    "patient": "pat-5QRFUwo4dxTf"
+  },
+  {
+    "created_at": "2022-04-22 15:49:25",
+    "type": "membership.ended",
+    "end_date": "2022-04-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-KIx5YEQ3doDB",
+    "patient": "pat-zJzsLcm3VHJ0"
+  },
+  {
+    "created_at": "2022-04-22 15:52:12",
+    "type": "membership.ended",
+    "end_date": "2022-04-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-yAfNL0gbR2e5",
+    "patient": "pat-VkoFcrxxAB1a"
+  },
+  {
+    "created_at": "2022-04-22 17:16:31",
+    "type": "membership.started",
+    "start_date": "2022-04-22",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-6FdonwFbYxhf",
+    "patient": "pat-jgHLKZWoqq4n"
+  },
+  {
+    "created_at": "2022-04-25 13:02:40",
+    "type": "membership.ended",
+    "end_date": "2022-04-25",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-IXLBDZHLkWgT",
+    "patient": "pat-8RIA6AadnHeF"
+  },
+  {
+    "created_at": "2022-04-25 13:48:58",
+    "type": "membership.started",
+    "start_date": "2022-04-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-hvhFZzttITvE",
+    "patient": "pat-eHrNk3TNDlPY"
+  },
+  {
+    "created_at": "2022-04-25 17:56:15",
+    "type": "membership.started",
+    "start_date": "2022-04-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-jBkmLX7EzMoo",
+    "patient": "pat-NeiQMGQUofVy"
+  },
+  {
+    "created_at": "2022-04-25 19:33:23",
+    "type": "membership.ended",
+    "end_date": "2022-04-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-E5Kj0B24SgSb",
+    "patient": "pat-Un68NKawaWPy"
+  },
+  {
+    "created_at": "2022-04-25 21:28:47",
+    "type": "membership.ended",
+    "end_date": "2022-04-25",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-fgCK98BxuFW8",
+    "patient": "pat-eqRzKsuCtRxP"
+  },
+  {
+    "created_at": "2022-04-26 14:55:02",
+    "type": "membership.ended",
+    "end_date": "2022-04-26",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-NLxxeopIr3tq",
+    "patient": "pat-nsHFLbVkUj70"
+  },
+  {
+    "created_at": "2022-04-27 16:55:15",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cxDimlPOGFNV",
+    "patient": "pat-sTiZdIO6xdKf"
+  },
+  {
+    "created_at": "2022-04-27 16:59:47",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-qUas8ixRSrUw",
+    "patient": "pat-fFNEBeOfUWfr"
+  },
+  {
+    "created_at": "2022-04-27 17:00:46",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-7WKX3FoS1gV7",
+    "patient": "pat-7MZiui7UC6LA"
+  },
+  {
+    "created_at": "2022-04-27 17:24:49",
+    "type": "membership.ended",
+    "end_date": "2022-04-27",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 6000,
+    "membership": "mem-Nuh8E7Avjfwu",
+    "patient": "pat-TmBObfLtnXic"
+  },
+  {
+    "created_at": "2022-04-27 17:24:49",
+    "type": "membership.ended",
+    "end_date": "2022-04-27",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 6000,
+    "membership": "mem-Nuh8E7Avjfwu",
+    "patient": "pat-vB7Cw7sALyvz"
+  },
+  {
+    "created_at": "2022-04-27 17:24:49",
+    "type": "membership.ended",
+    "end_date": "2022-04-27",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-Nuh8E7Avjfwu",
+    "patient": "pat-nGM3hCw0AHhV"
+  },
+  {
+    "created_at": "2022-04-27 17:24:49",
+    "type": "membership.ended",
+    "end_date": "2022-04-27",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-Nuh8E7Avjfwu",
+    "patient": "pat-noeaFpUXJbQZ"
+  },
+  {
+    "created_at": "2022-04-27 17:36:27",
+    "type": "membership.ended",
+    "end_date": "2022-04-27",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-h4jMx3DDgpiI",
+    "patient": "pat-bQx5NMErM3Ro"
+  },
+  {
+    "created_at": "2022-04-27 17:57:57",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-5UKFelO5MKmi",
+    "patient": "pat-Y43jsocK2Edq"
+  },
+  {
+    "created_at": "2022-04-27 18:02:33",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-2KKtPYktRWJ5",
+    "patient": "pat-ii3QSWPAq3T8"
+  },
+  {
+    "created_at": "2022-04-27 18:03:37",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Fnr6QpytWZ6F",
+    "patient": "pat-jR1LWIJWAl1x"
+  },
+  {
+    "created_at": "2022-04-27 18:04:22",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-bcQZY3aR9VZa",
+    "patient": "pat-af9xTzF4yzOQ"
+  },
+  {
+    "created_at": "2022-04-27 18:43:48",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cY0A7kW3qIdN",
+    "patient": "pat-h8OLB01pygWj"
+  },
+  {
+    "created_at": "2022-04-28 02:02:18",
+    "type": "membership.ended",
+    "end_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-GfwSsqXiBLzP",
+    "patient": "pat-3zAil7v64wW6"
+  },
+  {
+    "created_at": "2022-04-28 02:11:10",
+    "type": "membership.ended",
+    "end_date": "2022-04-28",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-AXifVIfAe7Cv",
+    "patient": "pat-gcqugaoi4Ek0"
+  },
+  {
+    "created_at": "2022-04-28 08:47:45",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-5UKFelO5MKmi",
+    "patient": "pat-WBoHJ1GbMFns"
+  },
+  {
+    "created_at": "2022-04-28 08:47:59",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cxDimlPOGFNV",
+    "patient": "pat-rMtn5y5V2OPL"
+  },
+  {
+    "created_at": "2022-04-28 08:47:59",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cxDimlPOGFNV",
+    "patient": "pat-jOVgpK3rGxXi"
+  },
+  {
+    "created_at": "2022-04-28 08:47:59",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-cxDimlPOGFNV",
+    "patient": "pat-MhkX1Yhe5l34"
+  },
+  {
+    "created_at": "2022-04-28 15:38:15",
+    "type": "membership.price_changed",
+    "from_price": 10000,
+    "to_price": 12500,
+    "membership": "mem-cY0A7kW3qIdN"
+  },
+  {
+    "created_at": "2022-04-28 15:44:57",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Ze2dLBO4ItBK",
+    "patient": "pat-rVOsEZZp4d4x"
+  },
+  {
+    "created_at": "2022-04-28 17:30:46",
+    "type": "membership.ended",
+    "end_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-zfdWPL3U9M3S",
+    "patient": "pat-Bsv5tqwxQRz4"
+  },
+  {
+    "created_at": "2022-04-28 17:39:36",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vgcdaV4TXxRl",
+    "patient": "pat-MluNdkfiXgqj"
+  },
+  {
+    "created_at": "2022-04-28 17:39:36",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-vgcdaV4TXxRl",
+    "patient": "pat-6kH7ZKDRAWCI"
+  },
+  {
+    "created_at": "2022-04-28 17:39:36",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vgcdaV4TXxRl",
+    "patient": "pat-qEUKXMsGu4oS"
+  },
+  {
+    "created_at": "2022-04-28 17:39:36",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-vgcdaV4TXxRl",
+    "patient": "pat-l4U2GuIHmD4I"
+  },
+  {
+    "created_at": "2022-04-28 18:08:10",
+    "type": "membership.ended",
+    "end_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vZLusqr66004",
+    "patient": "pat-tFNJn5Tj0Npn"
+  },
+  {
+    "created_at": "2022-04-28 18:08:10",
+    "type": "membership.ended",
+    "end_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-vZLusqr66004",
+    "patient": "pat-xfKjE6Pkc6qZ"
+  },
+  {
+    "created_at": "2022-04-28 18:46:11",
+    "type": "membership.started",
+    "start_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-2TXZFcPeAwhv",
+    "patient": "pat-8BO9BJcOSeR9"
+  },
+  {
+    "created_at": "2022-04-28 18:46:12",
+    "type": "membership.started",
+    "start_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 6000,
+    "membership": "mem-2TXZFcPeAwhv",
+    "patient": "pat-2ws8CYm8BiB5"
+  },
+  {
+    "created_at": "2022-04-28 18:46:12",
+    "type": "membership.started",
+    "start_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-2TXZFcPeAwhv",
+    "patient": "pat-UbPlekJ1KyKT"
+  },
+  {
+    "created_at": "2022-04-28 19:18:43",
+    "type": "membership.ended",
+    "end_date": "2022-04-28",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-gVpLNOcc3aaZ",
+    "patient": "pat-W4Dhfaq4iAJm"
+  },
+  {
+    "created_at": "2022-04-29 13:55:04",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-dpJmSnFJS4tr",
+    "patient": "pat-NcTBUxNVQiBd"
+  },
+  {
+    "created_at": "2022-04-29 14:43:17",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-dpJmSnFJS4tr",
+    "patient": "pat-Cg2re60l3EeA"
+  },
+  {
+    "created_at": "2022-04-29 14:43:17",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-dpJmSnFJS4tr",
+    "patient": "pat-Pwn8WGAO19aQ"
+  },
+  {
+    "created_at": "2022-04-29 15:23:50",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-cxcL1KHNDzMF",
+    "patient": "pat-APpwDCPl0lkx"
+  },
+  {
+    "created_at": "2022-04-29 15:43:31",
+    "type": "membership.started",
+    "start_date": "2022-04-29",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-2bVeTTr4MmmM",
+    "patient": "pat-ieQ6LpQ7BjBc"
+  },
+  {
+    "created_at": "2022-04-29 15:43:31",
+    "type": "membership.started",
+    "start_date": "2022-04-29",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-2bVeTTr4MmmM",
+    "patient": "pat-0NgaSBZhPlRM"
+  },
+  {
+    "created_at": "2022-04-29 18:50:25",
+    "type": "membership.started",
+    "start_date": "2022-05-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-HLEipVMR2JCG",
+    "patient": "pat-SmTGhqngpQ2h"
+  },
+  {
+    "created_at": "2022-04-29 18:50:25",
+    "type": "membership.started",
+    "start_date": "2022-05-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-HLEipVMR2JCG",
+    "patient": "pat-j4NbQGSg4qQW"
+  },
+  {
+    "created_at": "2022-04-29 18:50:25",
+    "type": "membership.started",
+    "start_date": "2022-05-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-HLEipVMR2JCG",
+    "patient": "pat-CI0pg2gGWrMH"
+  },
+  {
+    "created_at": "2022-04-29 18:50:25",
+    "type": "membership.started",
+    "start_date": "2022-05-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-HLEipVMR2JCG",
+    "patient": "pat-loBcjeVxkk4k"
+  },
+  {
+    "created_at": "2022-04-29 20:14:06",
+    "type": "membership.started",
+    "start_date": "2022-04-29",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-CTCurIDTzavm",
+    "patient": "pat-ULqwGEiV4mhz"
+  },
+  {
+    "created_at": "2022-04-29 20:52:59",
+    "type": "membership.ended",
+    "end_date": "2022-04-29",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 12500,
+    "membership": "mem-MSQm28yJtTDo",
+    "patient": "pat-RabqxAW5AA0U"
+  },
+  {
+    "created_at": "2022-04-30 08:49:26",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-dpJmSnFJS4tr",
+    "patient": "pat-j1pqaXpwUckA"
+  },
+  {
+    "created_at": "2022-04-30 08:49:26",
+    "type": "membership.started",
+    "start_date": "2022-05-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-dpJmSnFJS4tr",
+    "patient": "pat-i8KjzoiPgY8e"
+  },
+  {
+    "created_at": "2022-05-01 15:15:48",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-s2EanqNqRbh0"
+  },
+  {
+    "created_at": "2022-05-01 15:23:45",
+    "type": "membership.price_changed",
+    "from_price": 6000,
+    "to_price": 10000,
+    "membership": "mem-0xOAMEQp8NEZ"
+  },
+  {
+    "created_at": "2022-05-02 11:50:20",
+    "type": "membership.ended",
+    "end_date": "2022-05-02",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-yQcuptJ7GRVq",
+    "patient": "pat-pE995USx8HEJ"
+  },
+  {
+    "created_at": "2022-05-02 13:33:11",
+    "type": "membership.ended",
+    "end_date": "2022-05-02",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-NlUqzfr6fZkv",
+    "patient": "pat-fUmXFJAUJKjk"
+  },
+  {
+    "created_at": "2022-05-02 13:33:43",
+    "type": "membership.started",
+    "start_date": "2022-05-12",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-EORRhkdhM9WF",
+    "patient": "pat-fUmXFJAUJKjk"
+  },
+  {
+    "created_at": "2022-05-02 13:38:03",
+    "type": "membership.ended",
+    "end_date": "2022-05-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-k08rW3ZBW5ir",
+    "patient": "pat-BOj4cvM6Ioh1"
+  },
+  {
+    "created_at": "2022-05-02 13:38:03",
+    "type": "membership.ended",
+    "end_date": "2022-05-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-k08rW3ZBW5ir",
+    "patient": "pat-oDb84VcUIIdG"
+  },
+  {
+    "created_at": "2022-05-02 13:38:56",
+    "type": "membership.ended",
+    "end_date": "2022-05-02",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-CNthEGiJXbKg",
+    "patient": "pat-VjE2JZsOvLpI"
+  },
+  {
+    "created_at": "2022-05-02 13:46:38",
+    "type": "membership.ended",
+    "end_date": "2022-05-02",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-UGoUJvu5ugWU",
+    "patient": "pat-htFucXb73oUT"
+  },
+  {
+    "created_at": "2022-05-02 16:12:24",
+    "type": "membership.started",
+    "start_date": "2022-05-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-IqFPIj6l0Asq",
+    "patient": "pat-UFx2ayMKD7Mu"
+  },
+  {
+    "created_at": "2022-05-02 19:03:00",
+    "type": "membership.started",
+    "start_date": "2022-05-02",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-YtxbAeifsjFt",
+    "patient": "pat-c1IGRyzQTUZf"
+  },
+  {
+    "created_at": "2022-05-03 12:53:02",
+    "type": "membership.ended",
+    "end_date": "2022-05-03",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-WTUhQncw0vAr",
+    "patient": "pat-82AGi95feAsX"
+  },
+  {
+    "created_at": "2022-05-03 12:53:02",
+    "type": "membership.ended",
+    "end_date": "2022-05-03",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-WTUhQncw0vAr",
+    "patient": "pat-FzCzDBtl1iiQ"
+  },
+  {
+    "created_at": "2022-05-03 15:46:19",
+    "type": "membership.ended",
+    "end_date": "2022-05-03",
+    "plan": "pln-DRGRO2ehwSrP",
+    "price": 10000,
+    "membership": "mem-YfTwgyNIWFJi",
+    "patient": "pat-wgYDf59Ns9Po"
+  },
+  {
+    "created_at": "2022-05-03 17:15:57",
+    "type": "membership.ended",
+    "end_date": "2022-05-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-TNXEGLJS8BGf",
+    "patient": "pat-LR5smoD8GajB"
+  },
+  {
+    "created_at": "2022-05-03 17:33:02",
+    "type": "membership.started",
+    "start_date": "2022-05-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-wPCHxw0FwyBC",
+    "patient": "pat-Z4HRYo3VOiYf"
+  },
+  {
+    "created_at": "2022-05-03 18:54:39",
+    "type": "membership.started",
+    "start_date": "2022-05-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-O4FgxdI27T9F",
+    "patient": "pat-P2e1Ata9Ll5p"
+  },
+  {
+    "created_at": "2022-05-03 18:54:39",
+    "type": "membership.started",
+    "start_date": "2022-05-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-O4FgxdI27T9F",
+    "patient": "pat-DrL6m0GtYzkz"
+  },
+  {
+    "created_at": "2022-05-03 18:54:39",
+    "type": "membership.started",
+    "start_date": "2022-05-03",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-O4FgxdI27T9F",
+    "patient": "pat-dYEAkz2nBW5f"
+  },
+  {
+    "created_at": "2022-05-03 19:28:25",
+    "type": "membership.ended",
+    "end_date": "2022-05-03",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-vjr6dmLGxOkZ",
+    "patient": "pat-A2Yqa3TJyN47"
+  },
+  {
+    "created_at": "2022-05-03 21:50:23",
+    "type": "membership.ended",
+    "end_date": "2022-05-03",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 0,
+    "membership": "mem-3iGhCF12m7oZ",
+    "patient": "pat-QDggSYPZH9Gt"
+  },
+  {
+    "created_at": "2022-05-04 12:37:20",
+    "type": "membership.started",
+    "start_date": "2022-05-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-IKEQL82e8oAd",
+    "patient": "pat-ZHJ8hD1qbGhc"
+  },
+  {
+    "created_at": "2022-05-04 12:37:21",
+    "type": "membership.started",
+    "start_date": "2022-05-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-IKEQL82e8oAd",
+    "patient": "pat-YRGBGWYtYZFm"
+  },
+  {
+    "created_at": "2022-05-04 15:13:15",
+    "type": "membership.started",
+    "start_date": "2022-05-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-M7G68C3ArLWy",
+    "patient": "pat-2fbOyBffQqsa"
+  },
+  {
+    "created_at": "2022-05-04 17:43:14",
+    "type": "membership.started",
+    "start_date": "2022-05-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-7EjVjnICCCJa",
+    "patient": "pat-URaSgkUEVIq2"
+  },
+  {
+    "created_at": "2022-05-04 18:14:07",
+    "type": "membership.started",
+    "start_date": "2022-05-04",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-amYStJCxBQHI",
+    "patient": "pat-f0LQuIBSINOF"
+  },
+  {
+    "created_at": "2022-05-05 19:22:09",
+    "type": "membership.ended",
+    "end_date": "2022-05-05",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-xMZqMUDpTbHa",
+    "patient": "pat-Mb200g40gW9H"
+  },
+  {
+    "created_at": "2022-05-05 20:29:12",
+    "type": "membership.ended",
+    "end_date": "2022-05-05",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-McYlnVxvnwzw",
+    "patient": "pat-qpJPWRZhBEFF"
+  },
+  {
+    "created_at": "2022-05-06 14:53:06",
+    "type": "membership.ended",
+    "end_date": "2022-05-06",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-1LEOI1L04yeC",
+    "patient": "pat-E1pGerQRQDjq"
+  },
+  {
+    "created_at": "2022-05-06 14:53:06",
+    "type": "membership.ended",
+    "end_date": "2022-05-06",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-1LEOI1L04yeC",
+    "patient": "pat-RwPkyYqq5m99"
+  },
+  {
+    "created_at": "2022-05-09 13:01:22",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-VUSeOk7xHP58",
+    "patient": "pat-w6fCpOMWLty3"
+  },
+  {
+    "created_at": "2022-05-09 13:05:12",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-VUSeOk7xHP58",
+    "patient": "pat-zN83XkdFv36b"
+  },
+  {
+    "created_at": "2022-05-09 13:05:13",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-VUSeOk7xHP58",
+    "patient": "pat-ZfveQJJvDcCu"
+  },
+  {
+    "created_at": "2022-05-09 14:08:43",
+    "type": "membership.ended",
+    "end_date": "2022-05-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-GImCwblvu8Oa",
+    "patient": "pat-6A6Zgu8N10mh"
+  },
+  {
+    "created_at": "2022-05-09 17:26:28",
+    "type": "membership.started",
+    "start_date": "2022-05-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-XcDBTeA2GDsu",
+    "patient": "pat-co98Zob25XKC"
+  },
+  {
+    "created_at": "2022-05-09 17:26:28",
+    "type": "membership.started",
+    "start_date": "2022-05-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-XcDBTeA2GDsu",
+    "patient": "pat-9R1wHk4XqFvq"
+  },
+  {
+    "created_at": "2022-05-09 18:48:47",
+    "type": "membership.started",
+    "start_date": "2022-05-09",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-DdMWSOclEIfR",
+    "patient": "pat-I2oyrriFIphu"
+  },
+  {
+    "created_at": "2022-05-10 14:19:03",
+    "type": "membership.started",
+    "start_date": "2022-05-31",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-Hm4OgL8N4d8i",
+    "patient": "pat-WqP9LR14yDju"
+  },
+  {
+    "created_at": "2022-05-10 14:28:44",
+    "type": "membership.ended",
+    "end_date": "2022-05-10",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-e9tQn6lVUWaZ",
+    "patient": "pat-r0CPxURKwD1W"
+  },
+  {
+    "created_at": "2022-05-10 14:44:20",
+    "type": "membership.ended",
+    "end_date": "2022-05-10",
+    "plan": "pln-tHbu3wKXYUoe",
+    "price": 0,
+    "membership": "mem-p1F8wypM2W7a",
+    "patient": "pat-vGDE2WGevW6Q"
+  },
+  {
+    "created_at": "2022-05-10 14:45:15",
+    "type": "membership.started",
+    "start_date": "2022-05-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 5000,
+    "membership": "mem-ZIOYoqUVFyY0",
+    "patient": "pat-vGDE2WGevW6Q"
+  },
+  {
+    "created_at": "2022-05-10 21:31:54",
+    "type": "membership.started",
+    "start_date": "2022-05-10",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-NxKQGATPSLjN",
+    "patient": "pat-RXqIquCkcI6K"
+  },
+  {
+    "created_at": "2022-05-11 14:39:34",
+    "type": "membership.ended",
+    "end_date": "2022-05-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-i9NFUE96gEvu",
+    "patient": "pat-SRUytlHMFrUQ"
+  },
+  {
+    "created_at": "2022-05-11 17:54:50",
+    "type": "membership.started",
+    "start_date": "2022-05-11",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-38DMTJ1tni34",
+    "patient": "pat-HZl9E0wdwfhK"
+  },
+  {
+    "created_at": "2022-05-12 14:49:44",
+    "type": "membership.ended",
+    "end_date": "2022-05-12",
+    "plan": "pln-AcnFeBvWZL4S",
+    "price": 9900,
+    "membership": "mem-KuSps5d62Kkj",
+    "patient": "pat-XJ2hxIRbg1Co"
+  },
+  {
+    "created_at": "2022-05-12 16:09:29",
+    "type": "membership.ended",
+    "end_date": "2022-05-12",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Dl0u6xh02dth",
+    "patient": "pat-jnDmYvQCH6bA"
+  },
+  {
+    "created_at": "2022-05-12 16:09:29",
+    "type": "membership.ended",
+    "end_date": "2022-05-12",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-Dl0u6xh02dth",
+    "patient": "pat-2K8QaLzgnR0C"
+  },
+  {
+    "created_at": "2022-05-12 16:14:38",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-qYxuz5OFd6r8",
+    "patient": "pat-40K68r5RysID"
+  },
+  {
+    "created_at": "2022-05-13 12:49:35",
+    "type": "membership.ended",
+    "end_date": "2022-05-13",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-BTPfs1IquoA2",
+    "patient": "pat-H6t4DNTDApID"
+  },
+  {
+    "created_at": "2022-05-13 13:21:54",
+    "type": "membership.ended",
+    "end_date": "2022-05-13",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-CFiHfAc6DlgW",
+    "patient": "pat-cB4Q1q4Ly8gw"
+  },
+  {
+    "created_at": "2022-05-13 13:33:47",
+    "type": "membership.ended",
+    "end_date": "2022-05-13",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 10000,
+    "membership": "mem-zAWmJWM4Medv",
+    "patient": "pat-KnhU8PxIWUAj"
+  },
+  {
+    "created_at": "2022-05-13 14:05:04",
+    "type": "membership.ended",
+    "end_date": "2022-05-13",
+    "plan": "pln-2iJ0noenVSMR",
+    "price": 10000,
+    "membership": "mem-kBMnTgh0E67g",
+    "patient": "pat-zMrmZ45mubl3"
+  },
+  {
+    "created_at": "2022-05-13 18:46:37",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-LsjnRd7xROER",
+    "patient": "pat-ZaHW9Rb3uJi7"
+  },
+  {
+    "created_at": "2022-05-13 18:47:29",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-LsjnRd7xROER",
+    "patient": "pat-xQBZ73IzaZN7"
+  },
+  {
+    "created_at": "2022-05-13 20:31:58",
+    "type": "membership.started",
+    "start_date": "2022-06-01",
+    "plan": "pln-YSe1ZgpeaJCn",
+    "price": 6000,
+    "membership": "mem-TwUP7UWki8RI",
+    "patient": "pat-MHhF6T8fYklO"
+  }
+]
