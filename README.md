@@ -7,9 +7,9 @@ Imagine we're tasked to write a script that will be run a couple times a year by
 ## Some Background
 In order to keep our Practices up to date on how are they are doing on term of membership and revenue, we record how a membership changes over time as "events". 
 
-The types of events are:
+There are 4 types of events. Each has a `created_at`, `type`, and `membership` field, but the other attributes vary, depending on the type of event. The events are:
 
-#### `membership.started` A membership started 
+#### 1. `membership.started` A membership started 
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -22,7 +22,7 @@ The types of events are:
 }
 ```
 
-#### `membership.ended` A membership ended 
+#### 2.  `membership.ended` A membership ended 
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -35,7 +35,7 @@ The types of events are:
 }
 ```
 
-#### `membership.price_changed` The cost of a membership changed 
+#### 3. `membership.price_changed` The cost of a membership changed 
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -46,7 +46,7 @@ The types of events are:
 }
 ```
 
-#### `membership.plan_changed` The plan of a membership changed
+#### 4. `membership.plan_changed` The plan of a membership changed
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
