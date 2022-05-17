@@ -5,7 +5,9 @@ For this prompt we want to build a tool together that lets us analyze a file of 
 Imagine we're tasked to write a script that will be run a couple times a year by an engineer on your team. It should be readable/maintainable, but doesn't need to be extremely robust. We're more interested in just getting to the solution quickly then on making it scalable, extensible, 100% tested, etc.
 
 ## Some Background
-In order to keep our Practices up to date on how are they are doing on term of membership and revenue, we record how a membership changes over time as "events". 
+Our customers are primarily doctors offices, which we call a "Practice". Our doctors make money by selling monthly memberships to their patients.
+
+We track how these memberships change over time in our system as "events". This lets us report ons how their memberships changes over time. 
 
 There are 4 types of events. Each has a `created_at`, `type`, and `membership` field, but the other attributes vary, depending on the type of event. The events are:
 
@@ -57,11 +59,11 @@ There are 4 types of events. Each has a `created_at`, `type`, and `membership` f
 }
 ```
 
-All the events for this year for a practice is provided as a json file in `data/patients.json`
+The full event data for this year for a practice is provided as a json file in `data/patients.json`
 
 ## Challenge / Goals
 
-We want to write a script that answers the following kinds of questions. It can output the answers in any format you choose - as long as it would be usable to a developer running the script.
+We want to write a script that can answer the following questions. How it does this is up to you - as long as it would be usable to a developer tasked with running it.
 
 1. How many events are in the file?
 2. What's the total change in revenue for the year?
@@ -71,13 +73,10 @@ A membership starts with price $100.00
 A membership ends with price $50.00
 A membership price changes from $10.00 to $20.00
  ```
-We'd expect the revenue change for january is $60.00
+We'd expect the revenue change to be $60.00
 
 4.  What is the total revenue each month assuming the practice finished 2021 with a revenue of $10,000.00
-5.  What's the % change in revenue month over month? 
-    For instance, if April's revenue was $100.00 and May's was $150.00, the month over month change is 50%
-
-
+5.  What's the % change in revenue month over month? For instance, if April's revenue was $100.00 and May's was $150.00, the month over month change is 50%.
 6. How many active members does the practice have at the end of each month, assuming it ended 2021 with 500 members
 
 
