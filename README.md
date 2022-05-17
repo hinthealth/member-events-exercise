@@ -1,15 +1,15 @@
-## Coding Challenge
+# Coding Challenge
 
 For this prompt we want to build a tool together that lets us analyze a file of JSON data.
 
 Imagine we're tasked to write a script that will be run a couple times a year by an engineer on your team. It should be readable/maintainable, but doesn't need to be extremely robust. We're more interested in just getting to the solution quickly then on making it scalable, extensible, 100% tested, etc.
 
-### Some Background
+## Some Background
 In order to keep our Practices up to date on how are they are doing on term of membership and revenue, we record how a membership changes over time as "events". 
 
 The types of events are:
 
-- A membership started
+#### `membership.started` A membership started 
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -22,7 +22,7 @@ The types of events are:
 }
 ```
 
-- A membership ended
+#### `membership.ended` A membership ended 
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -35,7 +35,7 @@ The types of events are:
 }
 ```
 
-- The cost of a membership changed
+#### `membership.price_changed` The cost of a membership changed 
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -46,7 +46,7 @@ The types of events are:
 }
 ```
 
-- The plan of a membership changed
+#### `membership.plan_changed` The plan of a membership changed
 ```ruby
 {
   created_at: String, # i.e. "2022-01-03 14:02:06"
@@ -57,19 +57,22 @@ The types of events are:
 }
 ```
 
-All the events for this year for a practice is provided as a json file on data/patients.json
+All the events for this year for a practice is provided as a json file in `data/patients.json`
 
-### Challenge / Goals
+## Challenge / Goals
 
-We want to write a script that answers some of the following questions. It can output the answers in any format you choose - as long as it would be usable to a developer running the script.
+We want to write a script that answers the following kinds of questions. It can output the answers in any format you choose - as long as it would be usable to a developer running the script.
 
 1. How many events are in the file?
 2. What's the total change in revenue for the year?
 3. What's the change of revenue in April? For instance...
-    A membership starts with price $100.00
-    A membership ends with price $50.00
-    A membership price changes from $10.00 to $20.00
- the revenue variation for january is $60.00
+```
+A membership starts with price $100.00
+A membership ends with price $50.00
+A membership price changes from $10.00 to $20.00
+ ```
+We'd expect the revenue change for january is $60.00
+
 4.  What is the total revenue each month assuming the practice finished 2021 with a revenue of $10,000.00
 5.  What's the % change in revenue month over month? 
     For instance, if April's revenue was $100.00 and May's was $150.00, the month over month change is 50%
@@ -92,14 +95,11 @@ A patient has the following format:
 ```
 
 1. We want to know the average age of new members month over month?
-
 2. What about the median?
 
 
 ### Even more questions:
 
 - How would you implement a system that does this?
-
 - How will you generate the data?
-
 - How will you store it?
