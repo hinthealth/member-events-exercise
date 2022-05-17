@@ -66,10 +66,10 @@ We want to write a script that answers some of the following questions. It can o
 1. How many events are in the file?
 2. What's the total change in revenue for the year?
 3. What's the change of revenue in April? For instance...
-    A membership starts with price 100_00
-    A membership ends with price 50_00
-    A membership price changes from 10_00 to 20_00
- the revenue variation for january is 60_00
+    A membership starts with price $100.00
+    A membership ends with price $50.00
+    A membership price changes from $10.00 to $20.00
+ the revenue variation for january is $60.00
 4.  What is the total revenue each month assuming the practice finished 2021 with a revenue of $10,000.00
 5.  What's the % change in revenue month over month? 
     For instance, if April's revenue was $100.00 and May's was $150.00, the month over month change is 50%
